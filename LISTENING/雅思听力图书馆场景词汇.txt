@@ -1,0 +1,35 @@
+renew
+续借
+
+book
+预订
+
+reserve
+预定
+
+open shelf
+开架
+
+information desk
+服务台
+
+delivery desk
+借书台
+
+return area
+还书处
+
+student union card
+学生卡
+
+students locker
+学生存储间
+
+scanner
+扫描仪
+
+photocopy machine
+复印机
+
+photocopier
+复印机

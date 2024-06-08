@@ -1,0 +1,287 @@
+important, basic, big, cardinal, central, chief, epoch-making, essential, foremost, fundamental, historic, key, main, major, momentous, newsworthy, noteworthy, once in a lifetime, outstanding, pressing, primary, principal, rare, salient, serious, significant, strategic, urgent, valuable, weighty.
+重要的
+
+obvious, blatant, clear, conspicuous, distinct, evident, eyecatching, flagrant, glaring, gross, inescapable, intrusive, notable, noticeable, obtrusive, open, patent, perceptible, plain, prominent, pronounced, recognizable, self-evident, unconcealed, undisguised, undisputed, unmistakable, visible.
+明显的
+
+evidently, apparently, markedly, visibly.
+明显地
+
+common, accepted, collective, communal, general, joint, mutual, open, popular, public, shared, universal.
+共同的
+
+plentiful, abounding, abundant, ample, bounteous, bountiful, bristling, bumper, copious, generous, inexhaustible, lavish, liberal, overflowing, plenteous, profuse, prolific.
+充裕的
+
+affluent, flourishing, flush, loaded, moneyed, plutocratic, prosperous, rich, wealthy, well-heeled, well-off, well-to-do.
+富裕的
+
+perfect, complete, excellent, faultless, finished, flawless, ideal, mint, unbeatable, undamaged, unexceptionable, whole.
+完美的
+
+insistent, assertive, demanding, emphatic, forceful, importunate, peremptory, persistent, relentless, repeated, unrelenting, unremitting, urgent.
+坚持的
+
+adjoining, abutting, adjacent to, alongside, beside, bordering, closest to, contiguous with, juxtaposed to, nearest, neighboring, next to, touching.
+邻近的
+
+accurate, careful, correct, exact, meticulous, minute, perfect, precise, scrupulous.
+准确的
+
+inaccurate, erroneous, false, faulty, imperfect, imprecise, incorrect, inexact, misleading, mistaken, unfaithful, unreliable, unsound, untrue, vague, wrong.
+不准确的
+
+vague, amorphous, blurred, dim, hazy, ill-defined, indistinct, misty, shadowy, unrecognizable.
+模糊的
+
+puzzling, baffling, bewildering, confusing, cryptic, enigmatic, impenetrable, inexplicable, insoluble, mind-boggling, mysterious, mystifying, perplexing, strange, unaccountable, unanswerable, unfathomable.
+令人困惑的
+
+basic, central, chief, crucial, elementary, essential, foremost, fundamental, important, intrinsic, key, main, necessary, primary, principal, radical, underlying, vital.
+基本的
+
+complex, complicated, composite, compound, convoluted, elaborate, fiddly, heterogeneous, intricate, involved, manifold, mixed, multifarious, multiple, multiplex, sophisticated.
+复杂的
+
+explicit, clear, definite, detailed, direct, exact, express, frank, graphic, open, outspoken, patent, plain, positive, precise, put into words, said, specific, spelled out, spoken, straight-forward, unambiguous, unconcealed, unequivocal, unhidden, unreserved.
+明晰的
+
+slight, imperceptible, insignificant, minor, negligible, slim, superficial, tiny, trifling, trivial, unimportant.
+轻微的
+
+hard-working, assiduous, busy, conscientious, diligent, earnest, energetic, enterprising, hard-working, involved, keen, laborious, persistent, productive, sedulous, tireless, zealous.
+勤奋的
+
+fragile, breakable, brittle, delicate, easily damaged, feeble, frail, insubstantial, slight, thin, weak.
+易碎的
+
+permanent, abiding, chronic, constant, continual, continuous, durable, enduring, everlasting, fixed, immutable, incessant, incurrable, indestructible, ineradicable, irreparable, irreversible, lasting, lifelong, long-lasting, never-ending, perennial, perpetual, persistent, stable, steady, unalterable, unchanging, unending.
+永久的
+
+dangerous, alarming, breakneck, chancy, critical, explosive, grave, hairy, hazardous, insecure, menacing, nasty, perilous, precarious, reckless, risky, uncertain, unsafe.
+危险的
+
+debatable, arguable, contentious, controversial, controvertible, disputable, doubtful, dubious, moot, open to question, problematical, questionable, uncertain.
+有争议的
+
+unfavorable, adverse, attacking, contrary, critical, disapproving, discouraging, hostile, ill-disposed, inauspicious, negative, opposing, uncomplimentary, unfriendly, unhelpful, unkind, unpromising, unpropitious, unsympathetic.
+不利的
+
+attractive, agreeable, alluring, adorable, appealing, artistic, beautiful, bewitching, bonny, captivating, catchy, charming, cute, desirable, enchanting, endearing, engaging, enticing, fascinating, fetching, glamorous, good-looking, gorgeous, handsome, hypnotic, interesting, inviting, irresistible, lovable, lovely, magnetic, personable, pleasant, pleasing, prepossessing, pretty, quaint, seductive, stunning, taking, tempting, winsome.
+吸引人的
+
+various, assorted, contrasting, different, differing, dissimilar, diverse, heterogeneous, miscellaneous, mixed, motley, multifarious, several, sundry, varied, varying.
+多样的
+
+best, top, highest, ideal, maximum, perfect, optimal.
+最佳的
+
+feasible, achievable, attainable, possible, practicable, practical, realizable, viable, workable.
+可行的
+
+significant, eloquent, expressive, indicative, knowing, meaningful, pregnant, revealing, symbolic, tell-tale.
+有意义的
+
+responsible, accountable, answerable, in charge of.
+需负责的
+
+urban, built-up, densely populated, metropolitan.
+城市的
+
+advantage, virtue, asset, good point, merit, redeeming feature, strength.
+优点
+
+disadvantage, drawback, handicap, hardship, hindrance, impediment, inconvenience, liability, minus, nuisance, privation, snag, trouble, weakness.
+缺点
+
+start, activate, begin, commence, create, embark on, engender, establish, found, get cracking on, give birth to, inaugurate, initiate, instigate, institute, introduce, launch, open, originate, pioneer, set up.
+开始
+
+poverty, bankruptcy, beggary, dearth, debt, destitution, hardship, indigence, lack, necessity, need, penury, privation, scarcity, shortage, want.
+贫穷
+
+support, aid, assist, back, champion, comfort, defend, encourage, give support to, rally round, reassure, speak up for, stand by, stand up for, take part.
+帮助
+
+advertisement, ad, announcement, bill, blurb, break, commercial, display, hand-out, leaflet, notice, placard, plug, poster, promotion, publicity, puff, sign, small ad, classified advertisement.
+广告
+
+agriculture, agronomy, crofting, cultivation, farming, growing, husbandry, tilling.
+农业
+
+art, artistry, artwork, craft, craftsmanship, draughtsmanship.
+艺术
+
+bicycle, bike, cycle, penny-farthing, push-bike, racer, tandem, two-wheeler.
+自行车
+
+building, construction, edifice, erection, piece of architecture, pile, premises, structure.
+建筑物
+
+business, buying and selling, commerce, dealings, industry, marketing, merchandising, selling, trade, trading, transactions.
+生意
+
+character, attitude, constitution, disposition, individuality, make-up, manner, nature, personality, reputation, temper, temperament.
+性格
+
+communicate, commune, confer, contact, converse, correspond, discuss, get in touch, interrelate, make contact, speak, talk, write (to).
+联络
+
+cooperation, aid, assistance, collaboration, cooperative effort, coordination, help, joint action, teamwork.
+合作
+
+diet, fare, food, nourishment, nutriment, nutrition.
+食物
+
+dress, apparel, attire, clothes, clothing, costume, garb, garments, gear, outfit, raiment.
+衣服
+
+hobby, amateur interest, diversion, interest, pastime, pursuit, recreation, relaxation.
+癖好
+
+holiday, bank holiday, break, day off, halfterm, leave, rest, sabbatical, time off, vacation.
+假日
+
+immigrant, incomer, newcomer, settler.
+移民
+
+marriage, espousal, match, nuptials, wedding.
+婚礼
+
+moral, lesson, meaning, message, precept, principle.
+教训
+
+policy, approach, code of conduct, guidelines, line, practice, procedure, protocol, rules, stance, strategy, tactics.
+方针
+
+impact, effect, force, impression, influence, repercussions, shock.
+影响
+
+increase, addition, amplification, augmentation, boost, build-up, crescendo, development, enlargement, escalation, expansion, extension, gain, growth, increment, inflation, intensification, proliferation, rise, upsurge, upturn.
+增加
+
+decrease, contraction, cut, cut-back, decline, diminuendo, downturn, drop, fall, falling off, reduction.
+减少
+
+reason, apology, argument, case, cause, excuse, explanation, grounds, incentive, justification, motive, occasion, pretext, rationale, vindication.
+理由
+
+result, consequence, effect, end-product, issue, outcome, product, repercussion, sequel, upshot.
+结果
+
+benefit, advance, advantage, aid, assist, better, boost, do good to, enhance, further, help, improve, profit, promote, serve.
+有益于
+
+dilemma, difficulty, doubt, embarrassment, fix, jam, mess, pickle, plight, predicament, problem, quandary, spot.
+窘境
+
+accomplish, achieve, attain, bring off, carry out, complete, conclude, consummate, discharge, do successfully, effect, execute, finish, fulfil, perform, realize, succeed in
+完成
+
+hinder, arrest, bar, be a hindrance to, check, curb, delay, deter, endanger, frustrate, get in the way of, hamper, handicap, hit, hold back, hold up, impede, keep back, limit, obstruct, oppose, prevent, restrain, restrict, retard, sabotage, slow down, slow up, stand in the way of, stop, thwart.
+阻碍
+
+alter, adapt, adjust, amend, become different, convert, edit, amend, enlarge, make different, modify, reconstruct, reduce, reform, remake, remodel, reorganize, reshape, revise, transform, vary.
+更改
+
+compare, check, contrast, correlate, draw parallels between, juxtapose, make connections between, match, parallel, relate, set side by side, weight.
+比较
+
+understand, appreciate, apprehend, comprehend, cotton on to, decipher, decode, fathom, follow, gather, get, get to the bottom of, grasp, interpret, know, learn, make out, make sense of, master, perceive, realize, recognize, see, take in, twig.
+理解
+
+explain, clarify, clear up, decipher, decode, demonstrate, disentangle, elucidate, expound, gloss, illustrate, interpret, resolve, simplify, solve, sort out, spell out, teach, translate, unravel.
+说明
+
+appreciate, admire, approve of, be grateful for, be sensitive to, cherish, enjoy, esteem, like, prize, regard highly, respect, sympathize with, treasure, value, welcome.
+感激
+
+highlight, best moment, climax, high spot, peak, top point.
+精彩部分
+
+guess, assume, conjecture, divine, estimate, expect, feel, have a hunch, have a theory, hazard a guess, hypothesize, imagine, judge, make a guess, predict, speculate, suppose, surmise, suspect, think likely.
+猜
+
+explore, break new ground, probe, prospect, reconnoiter, scout, search, survey, tour, travel through.
+考察
+
+analyse, break down, dissect, evaluate, examine, interpret, investigate, scrutinize, separate out, study.
+分析
+
+development, advance, betterment, enlargement, evolution, expansion, extension, forward march, furtherance, growth, improvement, increase, progress, promotion, regeneration, reinforcement, spread.
+发展
+
+conclusion, answer, assumption, belief, decision, deduction, inference, interpretation, judgment, opinion, outcome, resolution, result, solution, upshot, verdict.
+结论
+
+agree, accede (to), accept, acknowledge, acquiesce (in), admit, allow, assent (to), be willing, concede, consent covenant, grant, make a contract, pledge yourself, promise, undertake.
+同意
+
+disagree, argue with, be at variance with, contradict, counter, deviate from, dissent from, object to, take issue with.
+不同意
+
+evidence, confirmation, corroboration, data, demonstration, documentation, facts, grounds, information, proof, sign, statistics, substantiation, testimony.
+证据
+
+error, bloomer, blunder, boob, fallacy, falsehood, fault, flaw, howler, inaccuracy, inconsistency, inexactitude, lapse, misapprehension, miscalculation, misconception, mistake, misunderstanding, omission, oversight, sin, slip-up, solecism, transgression, trespass, wrongdoing.
+错误
+
+repeat, do again, duplicate, echo, quote, recapitulate, redo, re-echo, regurgitate, rehearse, reiterate, replay, reproduce, re-run, restate, retell, say again, show again.
+重复
+
+criticize, analyze, appraise, assess, evaluate, judge, review.
+评论
+
+break, buckle, burst, bust, crack, destroy, do a mischief to, fracture, harm, hurt, impair, injure, mutilate, play havoc with, ruin, rupture, strain, warp, weaken, wound, wreck.
+损坏
+
+indicate, describe, display, give an indication of, intimate, make known, manifest, point out, reveal, say, show, specify.
+指出
+
+experience, adventure, event, happening, incident, occurrence, ordeal.
+遭遇
+
+tradition, convention, custom, habit, institution, practice, routine.
+传统
+
+form, document, paper.
+表格
+
+conceal, blotout, bury, camouflage, cloak, cover up, disguise, envelop, hide, hush up, keep dark, keep quiet, keep secret, mask, obscure, screen, suppress, veil.
+隐藏
+
+available, accessible, at hand, convenient, disposable, free, handy, obtainable, procurable, ready, to hand, uncommitted, unengaged, unused, usable.
+可用的
+
+distribute, allocate, allot, assign, circulate, deal out, deliver, dish out, dispense, dispose of, divide out, dole out, give out, hand round, issue, mete out, share out, take round.
+分发
+
+rely, bank on, count on, depend on, have confidence in, trust.
+依赖
+
+broaden, branch out, build up, develop, diversify, enlarge, expand, extend, increase, open up, spread, widen.
+扩大
+
+pursue, carry on, conduct, continue, engage in, follow up, inquire into, investigate, keep up with, persevere in, proceed with.
+从事
+
+ignore, disobey, disregard, leave out, miss out, neglect, omit, overlook, pass over, shut your eyes to, skip, slight, take no notice of, turn a blind eye to.
+不理
+
+worry, agitation, anxiety, apprehension, distress, fear, neurosis, tension, uneasiness, vexation.
+担心
+
+skill, aptitude, cleverness, craft, dexterity, expertise, facility, knack, proficiency, skillfulness, art, talent, technique, touch, trick.
+技术
+
+replace, change, provide a substitute for, renew.
+替换
+
+provoke, arouse, bring about, cause, elicit, excite, generate, give rise to, induce, inspire, kindle, occasion, produce, promote, prompt, spark off, stimulate, stir up.
+引起
+
+rescue, deliverance, liberation, recovery, release, relief, salvage.
+营救
+
+query, ask, catechize, cross-examine, cross-question, debrief, examine, grill, interrogate, interview, probe, pump, quiz.
+询问

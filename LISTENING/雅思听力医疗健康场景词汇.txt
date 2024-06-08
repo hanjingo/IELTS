@@ -1,0 +1,47 @@
+insurance
+保险
+
+therapy
+治疗方法
+
+diabetes
+糖尿病
+
+high blood pressure
+高血压
+
+patient
+病人
+
+surgery
+手术
+
+pharmacy
+药房
+
+general practitioner
+全科医生
+
+practice
+执业医生
+
+eye drop
+眼药水
+
+clinic
+诊所
+
+tablet
+药丸
+
+capsules
+胶囊
+
+prescription
+药方
+
+epidemic
+流行病
+
+fever
+发热
