@@ -33,3 +33,15 @@ pinpoint
 
 coincide
 一致
+
+memo
+备忘录
+
+coordinate
+坐标
+
+procedure
+手续
+
+life span
+寿命
