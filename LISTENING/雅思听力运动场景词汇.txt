@@ -21,3 +21,7 @@ racket sports
 
 gymnastics
 体操
+
+water-skiing
+
+kite-surfing
