@@ -34,5 +34,33 @@ charity
 legislation
 立法
 
-leaflet
-传单
+modernize
+现代化
+
+major refurbishment
+大修
+
+interior
+内部
+
+route
+路线
+
+fare
+票价
+
+pedestrian
+步行者
+
+bypass
+绕过
+
+adjoining land
+毗邻土地
+
+demolition
+毁坏
+
+redecorate
+再装修
+

@@ -107,6 +107,11 @@
 
     要进行连续和吞音的跟读模仿练习，熟悉这些发音习惯，从而适应音频节奏。
 
+11. 拼写规则：
+
+    - 拼写时一般把连在一起的相同字母读作：`double x`；例：harry读作：h-a-double r-y。
+    - 注意某些奇怪的读法；例：z读作：zet。
+
 
 
 ## 题型
@@ -139,7 +144,7 @@
 - 角落：corner, edge.
 - 远近：far, near.
 - 高低：high, low.
-- 其它：on one's left/right, in the vicinity of, adiacent to, located behind/in front of, go straight across/to/through, cross over, turn left/right, go up/down, go back/back up, go east/west/south/north, on the east/south/west/north, opposite, facing to, be parallel to.
+- 其它：on one's left/right, in the vicinity of, adjacent to, located behind/in front of, go straight across/to/through, cross over, turn left/right, go up/down, go back/back up, go east/west/south/north, on the east/south/west/north, opposite, facing to, be parallel to.
 
 ### 选择题(multiple choice)
 
@@ -173,7 +178,7 @@
 
 1. 快速阅读题干，不需要浪费大量的时间去读懂每个答案，抓住某几个**关键词（信号词）**即可。
 2. 听力的提升是一个积累的过程，需要投入大量时间做听力练习。
-3. 要有错题本和生词本，做完题目需要即使复习。
+3. 要有错题本和生词本，做完题目需要及时复习。
 4. 注意拼写检查。
 5. 一遍过，不要浪费听力间隙时间来检查已经做完的答案。
 6. 注意避开一些陷阱（比如提到题干，然后否定它，让你选错）。

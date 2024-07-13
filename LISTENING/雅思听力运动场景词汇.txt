@@ -23,5 +23,7 @@ gymnastics
 体操
 
 water-skiing
+滑水运动
 
 kite-surfing
+风筝冲浪
