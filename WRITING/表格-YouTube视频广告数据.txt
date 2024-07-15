@@ -1,0 +1,9 @@
+The table shows the average length of YouTube video advertisements and the average length of time viewers spend watching them. Summarise the information by selecting and reporting the main features. Write at least 150 words.
+
+The table shows the average length of YouTube video advertisements by sector and the average length of time viewers spent watching these advertisements.
+
+The average length of the advertisements varied from a low of 21.8 seconds for pharmaceuticals to a high of 66.7 for public service advertisements. With the exception of government and technology-related advertisements, in general, products and services which required a large financial commitment tended to have longer advertisements. Entertainment, financial services, and travel advertisements, for example, were all twenty-eight seconds on average or longer. Less expensive products, on the other hand, such as consumer electronics, clothing, and medicines, tended to have shorter advertisements.
+
+Adverts for more expensive products or services also tended to be watched for longer than adverts for less expensive items. Viewers on average watched more than 50 percent of advertisements for entertainment, travel, business, and finance. In contrast, viewers tended to watch less of government advertisements and advertisements for cheaper goods such as consumer electronics, clothing, and medicines.
+
+Overall, the length of YoutTube video advertisements and the length of time viewing such advertisements appears to be associated with the perceived cost of the product or service being advertised.
