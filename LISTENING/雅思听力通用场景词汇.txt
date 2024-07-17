@@ -345,3 +345,9 @@ dentist
 
 estate agent
 房产中介
+
+headphone
+(头戴式)耳机
+
+earphone
+(耳塞式)耳机

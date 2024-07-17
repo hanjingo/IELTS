@@ -1,0 +1,9 @@
+The diagram below shows the typical stages of consumer goods manufacturing, including the process by which information is fed back to earlier stages to enable adjustment. Write a report for a university lecturer describing the process shown. You should write at least 150 words.
+
+The provided flowchart illustrates the process of consumer goods production in an orderly manner and includes various stages of production and sales together with the feedback supplied towards the earlier stages which allows improvements and modifications throughout the process.
+
+The product manufacturing process is initiated with the purchase of raw materials and manufactured components which are kept in storage until the production process is planned. The production planning stage involves product research and design. The process is carried through the stages of assembly, inspection, testing, and packaging of the final product sequentially which is then dispatched for sales to the consumers.
+
+Production planning provides feedback for storage. Likewise, sales provide feedback for both production planning and market research, which in turn provides feedback for advertising and packaging. Similarly, both market research and testing provide feedback for design.
+
+In summary, this flowchart illustrates the production process and the feedback provided at various stages of goods manufacturing.
