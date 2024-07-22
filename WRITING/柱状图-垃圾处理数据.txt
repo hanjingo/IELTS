@@ -1,0 +1,9 @@
+The bar chart shows different methods of waste disposal in four cities; Toronto, Madrid, Kuala Lumpur and Amman. Summarize the information by describing the main features of the chart and making comparisons where appropriate.
+
+The var chart depicts four types of waste disposal in four cities. Landfill was the most popular method of waste disposal in Toronto and Amman. Toronto used landfills for disposing of about three-quarters of its waste with the remaining quarter split between incineration, recycling, and composting.
+
+Amman used landfill for disposing of almost half of its waste with most of the rest being incinerated. Incineration was the most popular method of waste disposal in Madrid and Kuala Lumpur.
+
+Kuala Lumpur disposed of more than half its waste by incineration with less than one quarter going for recycling and even less still going for landfill and composting. Recycling was the second least popular method of waste disposal.
+
+No cities disposed of more than 25% of its waste by recycling and in the case of Toronto, it was less than 10%. Composting was the least common method of waste disposal. No cities disposed of more than 10% of its waste by compositing and Amman hardly did any composting.

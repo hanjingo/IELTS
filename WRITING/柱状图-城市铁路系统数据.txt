@@ -1,0 +1,9 @@
+The bar charts illustrate comparable information related to railway systems in six capital cities in Europe; Paris, Stockholm, Lisbon, Rome, Madrid and Berlin.
+
+In general, railway systems in different cities vary in terms of the start dates of each system, the sizes, and the number of passengers using the systems in a year.
+
+As far as the ages are concerned, Paris has the oldest railway system among the six cities. It was opened in the year 1863, which is incomparable to the other cities. On the other hand, Berlin has the newest railway system which was opened in Europe in 2001.
+
+In terms of the size, Paris, for certain, has the longest route, 394km, which is nearly twice the figure for Stockholm. Madrid, in contrast, has the shortest route in its railway system, only 28km.
+
+When it comes to the number of people using the railway system in each, Lisbon shows the largest number of 1927 million passengers in a year while Madrid serves the smallest number of railway users, 45 million.
