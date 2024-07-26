@@ -32,6 +32,8 @@ Adverts must be truthful or banned altogether.
 
 Children can easily be influenced by advertisements.
 
+Global advertising encourages everyone to buy the same products.
+
 I believe that there is a direct link between fast food advertisements and rising levels of obesity.
 
 In order to sell more products, advertisements are designed with no concern for the truth.
@@ -58,15 +60,17 @@ This kind of technology-intensive agriculture also has its side effects.
 
 Alien.
 
-Supports believe that not only people's everyday lives but also the future of the human race will therefore benefit from launching alien projects. 
+Supports believed that not only people's everyday lives but also the future of the human race will therefore benefit from launching alien projects. 
 
 To begin with, searching for life on other space bodies could be a contingent plan in the worst case because of the increasing risk to life on Earth.
 
 Animal.
 
-Animals are used in important scientific research.
+Animal experiments sometimes fail to detect the undesirable side effects of drugs.
 
 Animal testing helps to advance medical and scientific knowledge.
+
+Animals are used in important scientific research.
 
 Humans have no moral right to do experiments on animals.
 
@@ -212,11 +216,15 @@ Historic buildings are part of a country's heritage.
 
 Historic buildings give character to cities and attract tourists.
 
+Historic buildings took skilled craftsmen years to build. 
+
 In some countries, the government provides state or council housing. This helps people who cannot afford to buy their own house.
 
 It can be argued that state housing creates dependence on the government.
 
 Modern buildings should be designed to be environmentally friendly.
+
+Modern concrete, steel, and glass buildings are built in only weeks or months.
 
 Modern glass buildings take advantage of natural light.
 
@@ -233,6 +241,8 @@ Old buildings show us how people lived in the past.
 People have no incentive to earn money and buy their own homes.
 
 Replacing farmland and parks with houses has several negative impacts.
+
+The building of facilities and infrastructure can destroy the habitat of wild animals.
 
 The world would be a duller place if there were only modern buildings, which more or less resemble one another.
 
@@ -369,6 +379,10 @@ We should not ignore face-to-face communication.
 Competition.
 
 A sense of competition can certainly bring about improvement.
+
+Competition is a natural instinct in humans.
+
+Competition is healthy because it pushes us to give our best.
 
 The total synergy of a team is far more important than the strength of an individual player.
 
@@ -635,6 +649,8 @@ Although this view is widely held, this is little evidence that education can be
 An increasing number of people are beginning to realize that education is not complete with graduation.
 
 As an old saying goes: All work and no play makes Jack a dull boy.
+
+As an old saying goes: it is never too late to learn.
 
 At the present stage of development, distance learning is still inferior to school education.
 
@@ -1386,6 +1402,8 @@ Advancements in medicine and healthcare have led to a longer life expectancy, re
 
 An advantage of using solar energy is that it won't create any pollution.
 
+An unhealthy diet can cause various health problems.
+
 An unhealthy lifestyle may put people at risk of illness.
 
 Being a doctor should not be merely a job but a sacred calling. 
@@ -1398,13 +1416,13 @@ If money becomes the main objective of doctors or hospitals, dire consequences w
 
 In light of the growing number of senior citizens in many countries, caring for elderly people is becoming harder to tackle.
 
-It is generally believed that the chief reason for the increase in population in developed countries is not so much the rise in birth rates as the decline in death rates as a result of the improvement in medical care.
+The chief reason for the increase in population in developed countries is not so much the rise in birth rates as the decline in death rates as a result of the improvement in medical care.
 
 This is the reason why many clerical workers today suffer from health problems.
 
-It is true that elderly people are physically weaker and more vulnerable to diseases. But what counts is not the body but the mind.
+It is true that elderly people are physically weaker and more vulnerable to diseases.
 
-More and more people, including young children, are seriously overweight. This situation will increase the burden on hospitals and taxpayers.
+More and more people, including young children, are seriously overweight.
 
 Obesity, diabetes, and heart disease are on the increase.
 
@@ -1428,23 +1446,19 @@ Standards and services will be sacrificed for higher profits.
 
 Taking exercise is closely related to health.
 
-Taxing heavily on foods that are hazardous to human health, will often discourage people from eating them.
-
-TODO
-
-The answer to the prevalence of unhealthy lifestyles lies beyond the scope of the influence of any individual citizen, andy non-government organization or any sector to address on its own.
-
 The government can implement policies and regulations that encourage healthy habits.
 
 The government could promote physical activity by investing in parks, playgrounds, and community centers
 
 The government of a country can play a stewardship role in public health, providing leadership and drawing in players from across many sectors.
 
-The health effect of GE food remains unclear/yet to be known.
+The health effects of GE food remain unclear to be known.
 
-The human body requires a balanced diet. An unhealthy diet can cause various health problems.
+The human body requires a balanced diet.
 
 There is ample evidence to suggest that it is the responsibility of the government to provide healthy food cheaper to the population.
+
+This situation will increase the burden on hospitals and taxpayers.
 
 To begin with, staying at a nursing home makes good financial sense.
 
@@ -1458,15 +1472,15 @@ You will find that staying at a nursing home makes good financial sense if you t
 
 Healthcare.
 
-Many people prefer to pay more for personal health service.
+Many people prefer to pay more for personal health services.
 
-State healthcare is paid by the government using money from taxes. Good healthcare should be available to everyone for free. The National Health Service in the UK provides free healthcare for every resident.
+State healthcare is paid for by the government using money from taxes. 
 
 State hospitals are often very large and difficult to run.
 
 Patients have their own rooms and more comfortable facilities.
 
-Private healthcare is unfair because only wealthy people can afford it. Everyone has access to the same quality of care and treatment.
+Private healthcare is unfair because only wealthy people can afford it.
 
 Private hospitals have shorter waiting lists for operations and appointments; patients can benefit from faster treatment.
 
@@ -1490,11 +1504,11 @@ Hobby.
 
 A hobby is also an antidote to stress.
 
+Anyone can take interesting pictures without knowing too much about the technicalities of operating a camera.
+
 Hobbies are beneficial because they are a genuine source of fun and pleasure.
 
 Hobbies enable us to associate more with others who have similar hobbies.
-
-In my opinion, anyone can take interesting pictures without knowing too much about the technicalities of operating a camera.
 
 I believe that many hobbies give us more pleasure when we reach a higher level of performance because the results are better and the feeling of achievement is greater.
 
@@ -1502,9 +1516,9 @@ Holiday.
 
 More and more people choose to avoid the holiday season to go traveling because tourist sites are invariably overcrowded during public holidays.
 
-The idea of people in different professions having holidays at different times is often out of necessity.
+People themselves know when they would most enjoy a vacation.
 
-The ideal way would be for the employees to decide the time and duration of the holidays, provided that it doesn't interfere with the running of the business. People themselves know when they would most enjoy a vacation. It is ultimately a personal matter and should be left to our own discretion if possible.
+The idea of people in different professions having holidays at different times is often out of necessity.
 
 This kind of liberal attitude toward holidays can reduce the strain on public facilities during the holiday season.
 
@@ -1512,13 +1526,13 @@ Immigrant.
 
 Although rural emigrants contribute greatly to the economic growth of the cities, they may inevitably bring about many negative impacts.
 
-An increasing number of experts believe that migrants will exert positive effects on the construction of a city. However, this opinion is now being questioned by more and more city residents, who complain that the migrants have brought many serious problems like crime and prostitution.
+An increasing number of experts believe that migrants will exert positive effects on the construction of a city.
 
-Companies might pay lower salaries to immigrant workers. Some immigrant workers work longer hours for less money.
+Companies might pay lower salaries to immigrant workers.
 
 Free healthcare and schooling are available in some developed countries.
 
-From an economic perspective, immigration can be extremely positive. Many immigrants have skills that are needed in the country they move to. Immigrants who find work contribute to the economy of their new country.
+From an economic perspective, immigration can be extremely positive.
 
 Governments should stop companies from exploiting immigrant workers. Foreign and local workers should have the right to equal pay and conditions.
 
@@ -1528,23 +1542,29 @@ Immigration can help the economy of a country, and it can create multi-cultural 
 
 Immigrants are sometimes recognized as a threat to social cohesion.
 
+Immigrants who find work contribute to the economy of their new country.
+
 Many immigrants come from less developed countries.
 
 Many immigrants send money home to help family members.
 
-Many sociologists point out that rural emigrants are putting pressure on population control and social order; that they are threatening to take already scarce city jobs; and that they have worsened traffic and public health problems.
+Many sociologists point out that rural emigrants are putting pressure on population control and social order.
 
 Other people migrate to a foreign country to improve their academic qualifications.
 
-People of many different nationalities learn to live together. It also creates cultural diversity. This can help people to become more open-minded and tolerant.
+People of many different nationalities learn to live together.
 
 Richer and industrialized countries may offer opportunities for employment.
+
+Some immigrant workers work longer hours for less money.
+
+Some people believe that immigrants take jobs that should go to local people.
 
 Some people move to another country in search of a better life.
 
 The influx of immigrant workers is the biggest reason behind city expansion.
 
-Unemployment rates could rise if there are too many immigrants. Some people believe that immigrants take jobs that should go to local people.
+Unemployment rates could rise if there are too many immigrants.
 
 Internet.
 
@@ -1554,15 +1574,19 @@ Criminals increasingly use the Internet to steal people's money.
 
 Getting news from the internet can create information bubbles, where people only read news that supports their opinions, leading to confirmation bias.
 
-It has revolutionized communication. We can keep in touch by email or instant messenger services. Video messaging is becoming common for business meetings.
+It has revolutionized communication.
+
+Many websites contain offensive content.
 
 No invention has received more praise and abuse than the Internet.
 
 Online shopping has become a normal part of people's everyday life.
 
-Parents find it difficult to control what their children see online. They do not always know who their children are chatting to.
+Parents find it difficult to control what their children see online.
 
-Shops and other services are now available online. People can buy goods and services from the comfort of their homes.
+Shops and other services are now available online.
+
+Some sites show violent or sexual images.
 
 The advent of the Internet opens up the possibility of communicating and interacting via the computer.
 
@@ -1570,27 +1594,27 @@ The Internet has democratized news access.
 
 The Internet is starting to replace other forms of entertainment.
 
-There are many advantages to using the Internet. It gives us instant access to information on almost any subject.
+There are many advantages to using the Internet.
 
-With so many websites it is difficult to search for good information. Many websites contain offensive content. Some sites show violent or sexual images.
+With so many websites it is difficult to search for good information.
 
 Language.
 
-As an alternative to English, a new global language could be invented. It would have no nationality or culture attached to it. This could help to promote international peace and understanding. Esperanto is an example of a language that was invented with this aim.
+A language is much more than simply a means of communication; it has a vital connection with the cultural identity of the people who speak it.
 
-As that of dinosaurs, the extinction of certain languages is just as lamentable. As a language dies out, the door to a unique history, culture and beauty is closed. The world becomes much duller as a result.
+As a language dies out, the door to a unique history, culture, and beauty is closed.
+
+As that of dinosaurs, the extinction of certain languages is just as lamentable. 
 
 English is the preferred language when communicating with most foreigners.
 
-English is widely used around the world. It is becoming a global second language. It is the dominant language of technology, science and international business. The ability to speak English is a necessary skill in the modern world.
+English is widely used around the world.
 
 English often means a good opportunity for one's career.
 
-Even if machine translation were able to eradicate all the language barriers between people, would there be no point in learning foreign languages? By no means.
-
 If one language is dominant, other languages may disappear.
 
-International business meetings are regularly held in English. The most important textbooks and journals are published in English.
+International business meetings are regularly held in English.
 
 It will be good news for school children when they are told that foreign language is no longer a required subject because translation can all be done by machines. 
 
@@ -1600,27 +1624,35 @@ Long before children are able to speak or understand a language, they communicat
 
 Mastery of a second language is essential for personal growth since it opens the door to understanding different cultures and new perspectives.
 
+The ability to speak English is a necessary skill in the modern world.
+
 The beauty of a language is what fascinates the students.
 
-The dominant language brings its own culture. American culture has become popular around the world, and other cultures may be damaged.
+The dominant language brings its own culture.
 
 The loss is regrettable because languages are closely linked to people's ways of thinking. 
+
+The most important textbooks and journals are published in English.
 
 Library.
 
 Libraries offer access to materials that are not available online.
 
-Libraries serve as a centre for academic community building.
+Libraries serve as a center for academic community building.
 
 LifeStyle.
 
-All these reasons are making human being less patience and more arrogant, and dragging them towards inhumanity.
+A second measure would be for governments to encourage immigration in order to increase the number of working adults who pay taxes.
 
-For people who want to adopt a healthy and meaningful lifestyle, it is important to find time to learn certain new knowledge. Just as an old saying goes: it is never too late to learn.
+All these reasons are making human beings less patient and more arrogant, and dragging them towards inhumanity.
+
+An aging population will mean a greater tax burden for working adults.
+
+For people who want to adopt a healthy and meaningful lifestyle, it is important to find time to learn certain new knowledge.
 
 For the majority of people, reading or learning a new skill has become the focus of their lives and the source of their happiness and contentment after their retirement.
 
-For those seeking a quiet life, the countryside is the best place. But for most people, the outlook is not so rosy. As it often turns out, a sojourn in the countryside from time to time allows you to get the best of both worlds.
+For those seeking a quiet life, the countryside is the best place.
 
 From what has been discussed above, I am fully convinced that the leisure lifestyle is undergoing a decline with the progress of modern society, but it is not necessarily a bad thing.
 
@@ -1636,25 +1668,23 @@ Though possessing a superior natural environment, the countryside is often notor
 
 You can broaden your interests and enrich your life by accessing whatever and whoever you are interested in.
 
-In other words, an aging population will mean a greater tax burden for working adults. Further pressures will include a rise in the demand for healthcare, and the fact young adults will increasingly have to look after their elderly relatives.
+Money from national budgets will need to be taken from other areas and spent on vital healthcare, accommodation, and transport facilities for the rising numbers of older citizens.
+
+Most people nowadays lead a sedentary lifestyle. 
 
 Nowadays, people of this age tend to be healthy enough to continue a productive working life.
 
-A second measure would be for governments to encourage immigration in order to increase the number of working adults who pay taxes.
-
-Finally, money from national budgets will need to be taken from other areas and spent on vital healthcare, accommodation and transport facilities for the rising numbers of older citizens.
-
 Line Graph.
 
-The average global oil price was close to \$25 per barrel, and the food price index stood at just under 90 points.
+The average global oil price was close to $25 per barrel, and the food price index stood at just under 90 points.
 
-The average oil price had more than doubled, to nearly \$60 per barrel, and food prices had risen by around 50 points.
+The average oil price had more than doubled, to nearly $60 per barrel, and food prices had risen by around 50 points.
 
-A dramatic increase in both commodity prices was seen from 2007 to 2008, with oil prices reaching a peak of approximately \$130 per barrel and the food price index rising to 220 points.
+A dramatic increase in both commodity prices was seen from 2007 to 2008, with oil prices reaching a peak of approximately $130 per barrel and the food price index rising to 220 points.
 
-However, by the beginning of 2009 the price of oil had dropped by roughly \$90, and the food price index was down by about 80 points.
+However, by the beginning of 2009, the price of oil had dropped by roughly $90, and the food price index was down by about 80 points.
 
-The average oil price rose once again, to nearly \$100 per barrel, while the food price index reached its peak, at almost 240 points.
+The average oil price rose once again, to nearly $100 per barrel, while the food price index reached its peak, at almost 240 points.
 
 The proportions of elderly people in the USA and Sweden rose gradually over the next 50 years, reaching just under 15% in 1990. By contrast, the figures for Japan remained below 5% until the early 2000s.
 
@@ -1664,21 +1694,23 @@ The figures for Sweden and the USA will be slightly lower, at about 25% and 23% 
 
 Over the following 5 years, the waste output of companies B and C rose by around 2 tonnes, but the figure for company A fell by approximately 1 tonne.
 
-From 2005 to 2015, company A cut waste production by roughly 3 tonnes, and company B reduced its waste by around 7 tonnes.
+From 2005 to 2015, Company A cut waste production by roughly 3 tonnes, and Company B reduced its waste by around 7 tonnes.
 
 By contrast, company C saw an increase in waste production of approximately 4 tonnes over the same 10-year period.
 
-By 2015, company C's waste output had risen to 10 tonnes, while the respective amounts of waste from companies A and B had dropped to 8 tonnes and only 3 tonnes.
+By 2015, Company C's waste output had risen to 10 tonnes, while the respective amounts of waste from companies A and B had dropped to 8 tonnes and only 3 tonnes.
 
 Marriage.
 
+A marriage is not a financial deal where sensibility reigns.
+
 An early marriage is usually based on genuine love.
 
-I won't even suggest that you weigh the benefits against the drawbacks because a marriage is not a financial deal where sensibility reigns.
+By allowing oneself more time to choose one's ideal partner, one is more likely to find the right person, thus reducing the likelihood of divorce.
 
-Meanwhile, a late marriage is also rewarding. By allowing oneself more time to choose one's ideal partner, one is more likely to find the right person, thus reducing the likelihood of divorce.
+More often than not, when and where you get married depends on things beyond your control.
 
-More often than not, when and where you get married depends on things beyond your control. Most people are seeking the right person and the right time. But when it comes, don't hesitate.
+Most people are seeking the right person and the right time. But when it comes, don't hesitate.
 
 There is no guarantee that a marriage will work, whether it is one with a foreigner or not.
 
@@ -1686,9 +1718,7 @@ Media.
 
 Another benefit of social media is the ability to keep up with current events.
 
-But for the vast majority, the famous or the common, privacy should not be intruded upon.
-
-In a country where freedom of speech and reporting is guaranteed, the mass media plays a major role in promoting good causes and exposing wrongdoings of all sorts.
+For better or worse, our opinion is going to be shaped by the mass media.
 
 In today's world, social media has become an indispensable part of our lives.
 
@@ -1706,7 +1736,7 @@ Social media can be addictive and time-consuming, leading to procrastination and
 
 Social media has become a powerful tool for activism and social change.
 
-Social media is a valuable tool for connecting with others and staying informed, and as long as it is used responsibly, it can be an incredibly powerful force for good in the world.
+Social media is a valuable tool for connecting with others and staying informed.
 
 Social media provides us with a wealth of information.
 
@@ -1714,13 +1744,15 @@ Thanks to technological development, the mass media is becoming more convincing 
 
 The famous are often the victims of sensationalism and tabloid journalism. 
 
-The mass media is the biggest information provider for most people. For better or worse, our opinion is going to be shaped by the mass media.
+The mass media is the biggest information provider for most people.
+
+The mass media plays a major role in promoting good causes and exposing wrongdoings of all sorts.
 
 The moment something significant happens in any part of the world, it is instantly reported on social media platforms, blogs, and news websites.
 
 The rise of social media has revolutionized the way people interact with each other and with the world.
 
-The vast amount of information available online can be overwhelming, and it can be challenging to tell what is credible and what is not. This can lead to fake news spreading like wildfire, causing panic and confusion among readers.
+The vast amount of information available online can be overwhelming, and it can be challenging to tell what is credible and what is not.
 
 We have to rely on the mass media because it is impossible for us to always acquire first-hand knowledge.
 
@@ -1742,21 +1774,25 @@ Staying in one's home country allows people to remain close to their family and 
 
 Military.
 
-A life in the army is physically demanding for a woman.
+Armed forces deter military attacks by other countries.
 
-Arm forces provide security and protection. Armed forces deter military attacks by other countries.
+Arm forces provide security and protection.
 
-Armed forces also be sued to maintain peace within countries.
+Armed forces also be used to maintain peace within countries.
 
 Armed forces can be used to give the police extra support.
 
-Armies require a lot of funding from governments. Too much money is spent on weapons and military technology and this money could be spent on schools, hospitals and other public services.
+Armies require a lot of funding from governments.
+
+Life in the army is physically demanding for a woman.
 
 Men should spare women, as much as possible, the evil of the war.
 
 Soldiers are also used to help in emergency situations, such as after a natural disaster.
 
 The psychological effects of a military career could be devastating.
+
+Too much money is spent on weapons and military technology and this money could be spent on schools, hospitals, and other public services.
 
 War and fighting may be mankind's unavoidable folly.
 
@@ -1784,15 +1820,21 @@ Mobile Phone.
 
 Mobile phones are a popular target for thieves.
 
-Mobile phones can also be a dangerous distraction. Using a phone while driving reduces the driver's concentration.
+Mobile phones can also be a dangerous distraction.
 
-Mobile phones can be a problem in some public places. Ringing phones cause disturbance in cinemas and school lessons. Some people are not aware that others can hear their conversations.
+Mobile phones can be a problem in some public places. 
 
-Mobile phones have revolutionized the way we communicate. We can stay in touch with family, friends and colleagues wherever we are.
+Mobile phones have revolutionized the way we communicate.
 
-Mobile phones may also interfere with electronic equipment. Their waves could cause damage to our brains.
+Mobile phones may also interfere with electronic equipment.
 
-The mobile phone is the most popular gadget in today's world. Users can send text messages, surf the Internet, take photos and listen to music. Mobiles have also become fashion accessories.
+Mobiles have also become fashion accessories.
+
+Ringing phones cause disturbance in cinemas and school lessons.
+
+The mobile phone is the most popular gadget in today's world.
+
+Using a phone while driving reduces the driver's concentration.
 
 Money.
 
@@ -1840,61 +1882,77 @@ Being printed on paper, the newspaper is friendly to the eyes.
 
 I believe that newspapers will continue to be a vital source of information, even in the Internet age.
 
+News coverage makes the public aware of events around the world. 
+
 News events often get dramatized.
 
 News reports often don't show us the whole picture because all too often news coverage must bow to political pressure.
 
-Newspapers and books are now published online as well as in print. We can read the news in any language from any country in the world. It costs nothing to publish or access information on the Internet.
+Newspapers and books are now published online as well as in print.
 
 Newspapers are the most traditional means of communicating the news, and not everyone wants to or is able to use the Internet instead.
 
-Newspaper articles and books are written by professionals. They produce better quality writing than amateurs, but the Internet allows anybody to publish their own writing.
+Newspaper articles and books are written by professionals.
 
 Newspapers can be trusted as reliable sources of news because they employ professional journalists and editors.
 
 Newspapers offer in-depth reports on various events, which can rarely be found on radio or TV.
 
-People still buy newspapers and books because they are portable. People do not like reading from a screen.
+People still buy newspapers and books because they are portable.
 
 Reporters often seek to captivate rather than inform the reader.
 
 So long as you can read you pick up a newspaper and enjoy.
 
-The key benefit of online news compared to newspapers is the ability to share articles, discuss them with other people, give our views, and even contribute with our own updates on social media.
+Some people do not like reading from a screen.
 
 Nuclear.
 
-Fossil fuels like oil and gas are running out. Nuclear could replace the use of natural resources like coal, oil or gas.
+A nuclear war between two countries would destroy both countries.
 
-It is safer to produce energy from solar, wind or water power.
+Fossil fuels like oil and gas are running out.
+
+Governments should limit the production of nuclear weapons.
+
+It is safer to produce energy from solar, wind, or water power.
+
+Nuclear can be used to produce electricity without wasting natural resources.
 
 Nuclear could help to reduce carbon emissions that cause global warming.
 
-Nuclear power is a sustainable energy source. Nuclear can be used to produce electricity without wasting natural resources.
+Nuclear could replace the use of natural resources like coal, oil, or gas.
 
-Nuclear waste disposal is a significant problem. There is currently no way to decontaminate radioactive material.
+Nuclear power is a sustainable energy source.
 
-Nuclear weapons should be prohibited. Governments should limit the production of nuclear weapons.
+Nuclear power stations are cleaner than fossil fuel power stations.
 
-Nuclear weapons are capable of destroying whole cities. A nuclear war between two countries would destroy both countries.
+Nuclear waste disposal is a significant problem.
+
+Nuclear weapons should be prohibited.
+
+Nuclear weapons are capable of destroying whole cities.
 
 Nuclear weapons are used as a deterrent, so they can prevent wars from starting.
 
 Nuclear weapons cannot be used against terrorist organizations.
 
-Opponents of nuclear power worry about the safety of power stations. The building of new nuclear power stations is unpopular; nobody wants to live near one.
+Opponents of nuclear power worry about the safety of power stations.
 
 People worry that terrorists could steal radioactive materials.
 
 There is a danger of nuclear weapons being obtained by terrorists.
 
-There are several benefits to build more nuclear power stations. Nuclear power stations are cleaner than fossil fuel power stations. The risks of accidents are being reduced.
+There is currently no way to decontaminate radioactive material.
+
+There are several benefits to building more nuclear power stations.
 
 Olympic Game.
 
-Governments are involved in the hosting of sporting events such as the Olympics. Because these events attract investment and create jobs. The Olympic Games are an advertisement for the host nation, which attract huge numbers of visitors and sports fans.
+Governments are involved in the hosting of sporting events such as the Olympics. 
 
-Some people believe that the believe that the Olympic Games are a waste of money.
+Some people believe that they believe that the Olympic Games are a waste of money.
+
+The Olympic Games are an advertisement for the host nation, which attracts huge numbers of visitors and sports fans.
 
 There are those who believe that the Olympic Games can bring nations together.
 
@@ -1902,23 +1960,35 @@ Wealthy countries tend to hold these events. But developing countries should be 
 
 Personality.
 
-Growing up in the countryside helps to cultivate one's self-reliance. Infrastructure and public service being inadequate, rural residents often do things for themselves.
+Growing up in the countryside helps to cultivate one's self-reliance.
 
-Many people argue that we control our own destinies. We are not limited by our genetic characteristics or upbringing. By working hard we can achieve our goal where we put our minds to. Many successful people are "self-made".
+Many people argue that we control our own destinies.
 
-Others think that our education and upbringing are more important. We develop according to the influences around us. Our personalities and achievements depend more on nurture than nature. We can shape our own personalities.
+Many successful people are "self-made".
 
-People raised in a city are often competitive and ambitious. They have been engaged in competitions with their peers since an early age;
+Others think that our education and upbringing are more important.
+
+Our personalities and achievements depend more on nurture than nature.
+
+People raised in a city are often competitive and ambitious.
 
 People's character can be attributed to many factors, the environment being only one of them.
 
-Some people believe that our personalities are determined mainly by genetics. We inherit our abilities and talents from our parents.
+Some people believe that our personalities are determined mainly by genetics.
 
 Though possessing individuality, people often share some collective traits unique to the place where they live.
+
+We are not limited by our genetic characteristics or upbringing.
+
+We can shape our own personalities.
+
+We inherit our abilities and talents from our parents.
 
 Policy.
 
 Adequate grants and scholarships should be set aside to alleviate the financial burdens of those underprivileged students.
+
+Any government that is blind to this point will pay a heavy price.
 
 Authorities should censor those news reports that give an exaggerated account of some social problems.
 
@@ -1944,35 +2014,37 @@ Governments can impose taxes. Governments raise money by taxing working people.
 
 Governments can provide resources for schools.
 
-Governments can raise people's awareness of issues (e.g. climate change / healthy eating).
-
 Governments can regulate the activities of companies such as banks.
 
 Governments control armed forces and police forces.
 
-Governments have a significant role to play in reducing obesity. Governments should promote a healthy diet and regular exercise. 
+Governments have a significant role to play in reducing obesity.
+
+Governments need to provide vocational courses and retraining.
 
 Governments provide public services like healthcare and education.
+
+Governments should ban dangerous sports and maintain that the physical harm caused by these activities far outweighs any benefits derived from them.
 
 Governments should introduce laws to protect natural environments and local cultures.
 
 Governments should offer some cities funds to preserve historic buildings.
 
+Governments should promote a healthy diet and regular exercise. 
+
 Governments support people who are living in poverty or unable to work.
 
-I believe that governments should try to preserve languages that are less widely spoken. A language is much more than simply a means of communication; it has a vital connection with the cultural identity of the people who speak it.
-
-If restrictions are imposed on certain areas and subjects, and if artists can only approach an issue in ways approved by the authority, art ceases to be art. 
-
-In conclusion, we must take into account this problem rationally and place more emphasis on peasants' lives. Any government that is blind to this point will pay a heavy price.
-
-In short, peace and development is certainly the theme of this century. Priority should be given to assisting the poor both at home and abroad rather than national defense.
+I believe that governments should try to preserve languages that are less widely spoken.
 
 It is desirable to build more hospitals, shopping centers, recreation centers, cinemas, and other public facilities to meet the growing needs of people.
 
 It is suggested that governments ought to make efforts to reduce the increasing gap between cities and the countryside. 
 
 Much needs to be done by the government to help this disadvantaged group.
+
+Peace and development is certainly the theme of this century.
+
+Priority should be given to assisting the poor both at home and abroad rather than national defense.
 
 Some people hold the government accountable for this issue.
 
@@ -1984,15 +2056,7 @@ The government should give priority to welfare services, especially healthcare.
 
 The top priority for deprived countries is to satisfy citizens' basic needs. 
 
-Therefore, I am in favor of providing free child care for all children, not just those of working mothers, if the government can afford it. Otherwise, the caring of the children remains to be the responsibility of individual families.
-
-This is a matter of life and death--a matter no country can afford to ignore.
-
 Those urban planners who are blind to this point will pay a heavy price, which they cannot afford it.
-
-Poverty.
-
-Overall the table suggests that households of single adults and those with children were more likely to be living in poverty than those consisting of couples.
 
 Public service.
 
@@ -2002,27 +2066,33 @@ Governments pay the salaries of public sector workers like police officers and t
 
 Other people think that essential services should be free, and governments should pay for them.
 
-Some governments control public transport systems and even TV channels. In other countries, these services are provided by private companies.
+Some governments control public transport systems and even TV channels.
 
-Some people believe that competition between private companies is good. It helps to improve quality while bringing prices down.
+Some people believe that competition between private companies is good.
 
-Punishment.
-
-Corporal punishment creates an atmosphere of fear and anger. Children who are punished physically may become shy or resentful.
-
-Corporal Punishment is not a good idea. Physical punishment is a way of controlling children using fear. This does not promote trust between adults and children.
-
-Printed Publication.
+Publication.
 
 Printed publications have cultural and historical value.
 
+Private companies may provide a better service than governments If they provide an efficient service, they will make more money.
+
 Reading from paper has been proven to be more beneficial for cognitive development than reading from electronic devices.
+
+Punishment.
+
+Children who are punished physically may become shy or resentful.
+
+Corporal punishment creates an atmosphere of fear and anger.
+
+Corporal Punishment is not a good idea.
+
+Physical punishment is a way of controlling children using fear.
 
 Radio.
 
 By providing audio information only, radio leaves much room for imagination.
 
-It is undeniable that radio is facing increasing competition from other forms of media. It needs to improve in terms of program variety and reception quality. But its longevity is beyond doubt.
+It is undeniable that radio is facing increasing competition from other forms of media.
 
 Radio is not likely to be replaced soon or at all because it is the most convenient way to acquire information.
 
@@ -2042,19 +2112,27 @@ The government may lack the resources and expertise to construct adequate housin
 
 Salary.
 
-It is fair that the best professionals earn a lot of money. Sports starts have dedicated hours of practice to developing their fitness and skills. Only the most talented among them will reach the top A sports and their career may only last 10 years.
+It is fair that the best professionals earn a lot of money. 
 
-Sport is a multi-million-pound industry. There is a large audience of sports fans. Sports on television attract many viewers. Sports fans are willing to pay to support their teams.
+Professional athletes as a group are paid too much and the exceptionally high salaries for top athletes cannot be justified. 
 
-Sports professionals earn too much money. Football players, for example, earn enormous salaries by simply kicking a ball. They do not provide a vital service. Sports salaries should be compatible with the wages most people earn.
+Sports fans are willing to pay to support their teams.
 
-We could all live happily without professional football. Life would be difficult without doctors, engineers and other vital professionals. But society does not seem to value these professions as highly as professional sport.
+Sports salaries should be compatible with the wages most people earn.
 
 Self-employment.
 
-Nowadays, it is easy to set up a company. Self-employment offers greater freedom than working for a company However, there are risks to starting a new business. Self-employed people may face financial difficulties. Many businesses fail to make a profit.
+Many businesses fail to make a profit.
 
-There is less stability in self-employment. There are no benefits like pensions, sick pay and holiday pay. Self-employment involves hard work, long hours and total responsibility.
+Nowadays, it is easy to set up a company. 
+
+Self-employed people may face financial difficulties. 
+
+Self-employment involves hard work, long hours, and total responsibility.
+
+Self-employment offers greater freedom than working for a company However, there are risks to starting a new business. 
+
+There is less stability in self-employment.
 
 Smoke.
 
@@ -2066,11 +2144,9 @@ The euphoria produced by cigarettes is akin to that generated by alcohol or drug
 
 Thus it is in the interest of the public and the smokers themselves that public smoking should be banned.
 
-Sociel.
+Social.
 
-Additional social stresses may also occur because of the population explosion or problems arising from mass migration movements-themselves made relatively easy nowadays by modern means of transport.
-
-Apart from elements making an ideal society, much effort has to be taken for fulfilling this dream.
+Apart from elements making an ideal society, much effort has to be taken to fulfill this dream.s
 
 Good social skills are an advantage that facilitates employees's jobs such as shortening time to complete work, facilitating processes, and achieving superior results.
 
@@ -2082,8 +2158,6 @@ Many people argue that highly qualified employees still greatly perform their jo
 
 Racial discrimination remains a serious problem.
 
-Remarkable social changes mean that there is scope for employees to switch to jobs with relative ease and take charge of their own progress and development at their own pace.
-
 Rich as our country is, the qualities of our living are by no means satisfactory.
 
 Several aspects should be taken into consideration in the way to build a perfect society.
@@ -2094,45 +2168,57 @@ The aging population has prompted countries to raise the statutory retirement ag
 
 Solar Power.
 
-In contrast with the drawbacks caused by nuclear power, solar power can serve as a better move toward the solution to the problem of the energy crisis.
+Solar power can serve as a better move toward the solution to the problem of the energy crisis.
 
 Study.
 
-The option to start work straight after school is attractive for several reasons. Many young people want to start earning money as soon as possible.
-
-On the other hand, I believe that it is more beneficial for students to continue their studies.
-
 Firstly, academic qualifications are required in many professions.
 
-Secondly, the job market is becoming increasingly competitive, and sometimes there are hundreds of applicants for one position in a company. 
+I believe that it is more beneficial for students to continue their studies.
+
+The job market is becoming increasingly competitive, and sometimes there are hundreds of applicants for one position in a company. 
+
+The option to start work straight after school is attractive for several reasons.
 
 Success.
 
 A man can succeed at almost anything for which he has unlimited enthusiasm.
 
-Behind every successful man there are a lot of unsuccessful years.
+Behind every successful man, there are a lot of unsuccessful years.
 
-Experience shows that success is due less to ability than to zeal. The winner is he who gives himself to his work, body and soul.
+Being successful means achieving personal or professional goals.
 
-For some, being successful means achieving personal or professional goals. They see success as the result of hard work.
+Experience shows that success is due less to ability than to zeal.
 
-People define success in different ways. Some people get a sense of achievement from raising a family. For others, success is defined by wealth or status.
+Millionaires like Bill Gates are considered to be successful.
 
-They have risen to the top in their chosen professions, but success in any field requires long-term planning and effort.
+People define success in different ways.
 
-We often think of rich and famous people as being successful in life. Millionaires like Bill Gates are considered to be successful.
+Success in any field requires long-term planning and effort.
+
+Success is defined by wealth or status.
+
+They see success as the result of hard work.
+
+We often think of rich and famous people as being successful in life. 
 
 Surveillance.
 
-The authorities could build databases with our pictures and identities. We should not be treated like criminals.
+Some people think that this surveillance violates our privacy.
 
-Video cameras are supposed to protect us and deter criminals, but many people think that this surveillance violates our privacy.
+The authorities could build databases with our pictures and identities.
 
-Video cameras have been installed in many public places. The use of CCTV is becoming widespread.
+The use of CCTV is becoming widespread.
+
+Video cameras are supposed to protect us and deter criminals.
+
+Video cameras have been installed in many public places.
+
+We should not be treated like criminals.
 
 Shopping.
 
-Apart from stealing our time, shopping has a more insidious effect. It advocates a luxurious lifestyle.
+Apart from stealing our time, shopping has a more insidious effect.
 
 People start to envy those rich enough to enjoy luxuries and making money becomes their primary goal.
 
@@ -2144,27 +2230,29 @@ Shopping for its own sake is a waste of both time and money.
 
 Sport.
 
+All sports should be amateur.
+
 By participating in team sports, we learn to work with others.
 
-Children are undergoing fast physical development; lack of physical exercise may have a disastrous influence on their later lives.
+Children play video games rather than doing outdoor sports.
 
-In daily life we compete to get jobs or the highest grades, because competition is a natural instinct in humans.
+Compared to an individual sport, a group sport requires collaboration between participants.
+
+Exercise burns calories and helps to build healthy bones and muscles.
 
 Individual sports can be more freedom which means the person can make whatever effort they want and there are no team members to be concerned about.
 
-It is also argued that professional athletes as a group are paid too much and the exceptionally high salaries for top athletes cannot be justified. 
-
 It is generally agreed that its chronic poor performance is more due to its collective strategy than the skills of individual players.
 
-It seems undeniable that compared to an individual sport, a group sport requires collaboration between participants, players should work as a team to share the responsibilities, take into account opportunities, and choose others, so the qualities as cooperation and coordination are of the essence to achieve maximum synergy.
+Lack of physical exercise may have a disastrous influence on their later lives.
 
 Like art, sport is a good way to train ourselves psychologically as well as physically.	
 
 Many experts point out that physical exercise contributes directly to a person's physical fitness.
 
-Money is necessary to improve facilities and train athletes.
+Many sports stars are only concerned about money and fame.
 
-Most people nowadays lead a sedentary lifestyle. We tend to walk less and do desk jobs. Most adults relax by watching television. Children play video games rather than doing outdoor sports.
+Money is necessary to improve facilities and train athletes.
 
 On the contrary, those games are conducive to cooperation and progress.
 
@@ -2172,27 +2260,29 @@ Physical exertion is conducive to our health.
 
 Playing a sport within a team can achieve the best result and support each team member.
 
-Professional sports are the same as any other business, and many people are employed in the sports industry. Sports stars entertain millions of people. People should be able to use their talents to earn a salary.
+Professional sports are the same as any other business, and many people are employed in the sports industry. 
 
-Proponents of the idea that the government should ban dangerous sports maintain that the physical harm caused by these activities far outweighs any benefits derived from them.
+Professional sports encourage people to compete for money
 
-Regular exercise is essential in maintaining a healthy body. Doctors advise exercising at least three times a week for 20 minutes. Exercise burns calories and helps to build healthy bones and muscles.
+Regular exercise is essential for maintaining a healthy body. 
 
 Since the examination is around the corner, I am compelled to give up doing sports.
 
 Solo sports also bring a number of benefits allow to cultivate and maximalize their personal capacity.
 
-Some people think that sport and politics should remain separate.
+Some people think that sports and politics should remain separate.
 
-Sport has become a business. Professional sport encourages people to compete for money. Many sports stars are only concerned about money and fame, and some athletes take drugs in order to win at any cost. 
+Sport has become a business.
 
 Sport is a character builder.
 
 Sports and other school activities can be designed to give children a sense of accomplishment and to promote their well-being.
 
-Sports are a safe form of competition. Competition is healthy because it pushes us to give our best. Competitors and fans can release energy and aggression. Supporters of teams feel a sense of belonging to a community.
+Sports are a safe form of competition. 
 
-Sports should be leisure activities rather than jobs, and people should do sporting activities for enjoyment and health reasons. Taking part is more important than winning. All sports should be amateur.
+Sports should be leisure activities rather than jobs, and people should do sporting activities for enjoyment and health reasons. 
+
+Taking part is more important than winning. 
 
 The claim that sports lead to competition rather than cooperation is only a lame argument.
 
@@ -2200,59 +2290,41 @@ The government has the duty to enforce regulations if necessary to safeguard hum
 
 The level of professional sports is much higher than that of amateur sports.
 
-Those who advocate for complete freedom believe that individuals should have the right to participate in any activities they choose, provided they do not harm anyone else.
-
 Stress.
 
-Children may be affected by their parents' relationship problems. Tests and exams can also cause stress.
+Children may be affected by their parents' relationship problems.
 
-Schools have started to employ psychologist; they can offer emotional support to students, and they can help students to cope with exam stress.
+Psychologists can offer emotional support to patients, and they can help them to cope with stress.
 
-Stress can be reduced by taking regular exercise and eating a healthy diet. It is also important to get sufficient sleep and make leisure time a priority. People should work less overtime and take regular holidays.
+Stress can be reduced by taking regular exercise and eating a healthy diet.
+
+Tests and exams can also cause stress.
 
 The relationship with one's fellow human being also adds to one's stress.
 
-Many experts point out that, along with the development of modern society, it is an inevitable result and there is no way to avoid it.
+Modern lifestyles are increasingly stressful.
 
-Modern lifestyles are increasingly stressful. Our busy lifestyles mean we have less time to relax. Unemployment is a major cause of stress.
+Unemployment is a major cause of stress.
 
 Science And Technology.
 
 Advances in medical technology have made it possible for people to live longer than in the past.
 
-Although many people tend to live under the illusion that traditional technology and methods are still playing an extremely important role in people's life, increasing evidence show that it is less useful than many people think.
-
-Animal experiments sometimes fail to detect the undesirable side effects of drugs.
-
-Anthropologists have discovered that fear, happiness, sadness, and surprise are universally reflected in facial expressions.
-
-As a popular saying goes, "everything has two sides." Now the public is benefiting more and more from scientific and technological inventions. On the other hand, the progress of science and technology is bringing us a lot of trouble. People in many countries are suffering from public hazards.
-
-As I see it, robots are not different from other human inventions, which are never perfect.
-
-At the same time, along with the benefits of such machines, employees must study the knowledge involved in such machines so that they are able to control them.
-
-Besides, new technologies can be very alluring. They bring about conveniences and even wonders.
+At present, most technological developments only aim to address our physical needs. In fact, our mental and spiritual lives need more attention.
 
 Computer-aided translation is far from doing a satisfactory job at the present stage of development. 
 
 Entertainment has undergone enormous changes since the advent of modern science and technology.
 
-Fortunately or unfortunately, mankind is always pushing for something better. Tantalizing successes always loom ahead. Having tasted the wonders of advanced technologies, we cannot do without them. Hence we become increasingly busy.
-
-From what has been discussed above, I firmly believe that time will prove that traditional technology and methods will die out with the development of modern science and technology. The maintenance of traditional technology and methods is futile.
-
 Genetic engineering allows people to nurture crop varieties.
+
+Having tasted the wonders of advanced technologies, we cannot do without them.
 
 In a larger sense, all subjects are vital to human progress.
 
-Internet, fax and mobile phone technologies have revolutionized working life. Workers can communicate via email, online networks and video conferencing. It gives people more freedom. It can also save time and money. 
-
-It is commonly thought that our society has dramatically changed by modern science and technology, and humans have made extraordinary progress in knowledge and technology over the recent decades.
+Internet, fax, and mobile phone technologies have revolutionized working life.
 
 It is true that new technologies have had an influence on communication between people.
-
-It is undeniable that people today have a better life quality.
 
 It must be admitted that books are increasingly being replaced by other types of storage devices.
 
@@ -2262,25 +2334,33 @@ Machine translation has encountered seemingly insurmountable obstacles when deal
 
 Many values of traditional technology are out of date and should be replaced by modern science.
 
-Modern people are blessed with so many means of acquiring information that some of us feel overwhelmed by the outpouring of vast amounts of information. 
-
 Modern technology has allowed rich people to accumulate wealth more easily.
 
 Natural science and social science are both employed in our everlasting quest toward a total understanding of the world, neither of which can be discarded.
 
+New technologies can be very alluring.
+
 No one can deny the basic fact that it is impossible for average workers to master those high-technology skills easily.
+
+Now the public is benefiting more and more from scientific and technological inventions.
 
 Nuclear technology is a two-edged weapon.
 
 On the individual side, technical advances brought unprecedented conveniences but also certain problems.
 
+Our society has dramatically changed by modern science and technology, and humans have made extraordinary progress in knowledge and technology over the recent decades.
+
 People in the 21st century have advanced social mobility and personal freedom.
+
+Robots are not different from other human inventions, which are never perfect.
 
 Some people disapprove of genetically modified food.
 
+Technology allows people to work from home.
+
 Technology can connect workers in different countries.
 
-Technology has had an impact on relationships in business, education and social life.
+Technology has had an impact on relationships in business, education, and social life.
 
 Technology itself is amoral. It can either serve or cut us. How we use it depends on ourselves.
 
@@ -2294,17 +2374,21 @@ The investment in space technology should be supported by the government.
 
 The level of access to education, healthcare, and technology has improved significantly in the 21st century compared to previous centuries.
 
+The maintenance of traditional technology and methods is futile.
+
+The progress of science and technology is bringing us a lot of trouble.
+
 The world is now more interconnected than ever before, and people have access to vast resources and knowledge.
 
 There are limits and scientists are not omnipotent.
 
-There is much discussion over science and technology. One of the questions under debate is whether traditional technology and methods are bound to die out when a country begins to develop modern science and technology.
-
-Though exhilarating, changes can sometimes overwhelm us. At present, most technological developments only aim to address our physical needs. In fact, our mental and spiritual lives need more attention.
+Though exhilarating, changes can sometimes overwhelm us.
 
 Thus in many fields, science and technology are far from providing perfect solutions.
 
 Time and again, science and technology have created wonders and even miracles, thus fortifying our belief in it.
+
+Time will prove that traditional technology and methods will die out with the development of modern science and technology.
 
 To achieve personal growth and success, one needs in-depth knowledge of a certain discipline.
 
@@ -2316,43 +2400,53 @@ While all subjects contribute to the progress of mankind, science should get the
 
 Without a doubt, social science, such as philosophy, language, and economics, is of great importance to civilization.
 
+Workers can communicate via email, online networks, and video conferencing.
+
 Tourism.
 
-Beautiful beaches are spoiled by the building of hotels. Tourism creates pollution and waste. It puts pressure on local resources.
+Beautiful beaches are spoiled by the building of hotels.
 
 Local traditions and cultures may be endangered.
 
-Low-cost airlines are making it cheaper to travel abroad. Traveling abroad opens our minds. We can learn to speak other languages.
+Low-cost airlines are making it cheaper to travel abroad.
 
-Many people believe that international tourism produce positive effects on economic growth and local government should be encouraged to promote international tourism.
+Many people believe that international tourism produces positive effects on economic growth.
 
 Many people today enjoy the pleasure of traveling around the world and appreciating exotic cultures and landscapes.
 
 Proper measures must be taken to limit the number of foreign tourists and great efforts should be made to protect the local environment and history from the harmful effects of international tourism.
 
+Some areas rely on tourism for their income.
+
 The living standard of the average Chinese is still not high enough to be able to afford the many different sorts of expenses during long-distance travel.
 
-The price of goods, services and housing may increase significantly. A rise in the cost of living affects local people.
+The price of goods, services, and housing may increase significantly.
 
 The problem of international tourism has caused wide public concern over the recent years.
 
-The tourist trade is vital for some economies. Tourism attracts investment from multi-national companies. It creates employment in services like accommodation, transport and entertainment. Tourists spend money. Some areas rely on tourism for their income. It helps to improve the standard of living.
+The tourist trade is vital for some economies. 
 
 The way I see it, tourism can do much to promote tradition and culture.
 
-Tourism brings China a lot of benefits. First, it enables the Chinese people to know more about the outside world and promotes friendship and understanding. Second, it is financially beneficial to China, which needs more foreign currencies for its modernization program.
+Traveling abroad opens our minds.
 
-Tourism can have a negative effect on the natural environment. The building of facilities and infrastructure can destroy the habitat of wild animals.
+Tourism attracts investment from multi-national companies.
 
-Tourism, however, gives rise to a number of problems. For instance, it becomes a burden to inefficient transportation systems.
+Tourism brings China a lot of benefits. 
 
-Tourism is a popular leisure activity. People go on holiday to relax and have fun.
+Tourism can have a negative effect on the natural environment.
 
-Tourism should have a low impact on wildlife. Renewable resources like solar or water power should be used. Waste should be recycled.
+Tourism creates pollution and waste.
+
+Tourism, however, gives rise to a number of problems.
+
+Tourism is a popular leisure activity.
+
+Tourism should have a low impact on wildlife.
 
 Tourist spots endeavor to cater to tourists' needs and tastes.
 
-Tourists can experience different cultures. They can sunbathe on beaches or go sightseeing.
+Tourists can experience different cultures.
 
 What these people fail to see is that international tourism may bring about a disastrous impact on our environment and local history.
 
@@ -2360,17 +2454,13 @@ Traditional VS Modern.
 
 Architecture from the past is often linked with certain historic events, the description of which may sometimes be found in history books. 
 
-Because of industrialization and global trade, many traditions have disappeared. Global advertising encourages everyone to buy the same products.
+Because of industrialization and global trade, many traditions have disappeared.
 
-Clothes are mass-produced in standard sizes. People wear similar clothes, rather than traditional costumes. Jeans and T-shirts are now worn throughout the world.
-
-Historic buildings took skilled craftsmen years to build. Modern concrete, steel and glass buildings are built in only weeks or months.
+Clothes are mass-produced in standard sizes.
 
 Historic relics should be preserved for their historical significance.
 
-It is important to maintain our different cultural identities. We should celebrate festivals, teach traditional skills and protect historic places.
-
-It is true that many older people believe in traditional values that often seem incompatible with the needs of younger people.
+It is important to maintain our different cultural identities.
 
 Religious and traditional festivals have certainly become times for celebration.
 
@@ -2378,33 +2468,41 @@ Some traditional views and values are certainly applicable to the modern world.
 
 Many of the ideas that elderly people have about life are becoming less relevant for younger people.
 
+Many older people indeed believe in traditional values that often seem incompatible with the needs of younger people.
+
 The old and the new need not be in mortal conflict, They can co-exist in harmony.
 
-Traditional customs are still important during weddings and religious festivals. People wear traditional costumes and eat special foods.
+Traditional customs are still important during weddings and religious festivals.
+
+We should celebrate festivals, teach traditional skills, and protect historic places.
 
 Traffic.
 
 A well-developed public transport system is the ultimate way to reduce the number of cars on the road.
 
-Another solution would be to tax drivers. In London, for example, there is a congestion charge. This helps to raise money for better public transport.
+Another solution would be to tax drivers.
 
 Because of low-cost carriers, the aviation industry has developed at an astounding pace over the past decades.
 
-Bicycles can't be compared with other means of transporations like car and train for speed and comfort.
+Bicycles can't be compared with other means of transportation like cars and trains for speed and comfort.
 
-Despite many obvious advantages of bicycle, it is not without its problem.
+Both punishments and a range of other measures can be used together to promote better driving habits.
+
+Buses can be given special lanes to avoid traffic.
+
+Cars are much more comfortable.
+
+Despite many obvious advantages of bicycles, it is not without its problem.
+
+Driving while tired or drunk is extremely dangerous.
 
 Each day tens of thousands of people die from traffic accidents in cities worldwide, a regrettable and wasteful loss of human lives.
 
-In my view, both punishments and a range of other measures can be used together to promote better driving habits.
-
-In order to reduce traffic we should change our working habits. The internet can now be used to connect people. More people could work from home. Meetings can be held as video conferences.
+In order to reduce traffic we should change our working habits.
 
 In view of such a serious situation, environmental tools of transportation like bicycles are more important than at any time before.
 
-Introducing the fear of punishment like imprisonment, higher penalties or cancellation of driving license in civilians can cultivate a good habit of following the traffic rules, so they do not have to face the penalties of rule-breaking.
-
-Investment in buses and trains will ease traffic congestion. Buses can be given special lanes to avoid traffic.
+Investment in buses and trains will ease traffic congestion.
 
 It is time the authorities concerned took proper steps to solve the traffic problems.
 
@@ -2414,15 +2512,19 @@ Many city residents complain that it is so few buses in their city that they hav
 
 Many people have no sense of how to drive and they infringe all the traffic rules and regulations and got accidents badly.
 
-Many people, including drivers and cyclists, do not obey the traffic rules properly, especially at busy intersections. And this undoubtedly worsens the already grave situation.
+Many people, including drivers and cyclists, do not obey the traffic rules properly, especially at busy intersections.
 
-Metro systems and trains are often dirty and crowded. People feel like "sardines in a can".
+Metro systems and trains are often dirty and crowded.
 
-Mobile phones can be a dangerous distraction for drivers. They draw the driver's attention away from the road. The use of phones while driving has been banned in many countries. Punishments are becoming stricter.
+Mobile phones can be a dangerous distraction for drivers.
+
+Modern public transport can be fast and cheap.
 
 More traffic wardens should be posted and traffic lights set up so as to regulate the flow of traffic.
 
 Most of the human loss and property damage caused by traffic accidents are avoidable if people choose to give up a little bit of their convenience for the sake of others.
+
+Most people live in the suburbs outside the city center, commuters tend to travel at the same time of day.
 
 No one can doubt the essential fact that the traffic problem over the last years has caused wide public concern all over the world.
 
@@ -2430,29 +2532,39 @@ On the one hand, strict punishments can certainly help to encourage people to dr
 
 On the other hand, I believe that safe driving can be promoted in several different ways that do not punish drivers.
 
-One argument put forward in favor of strict punishment for traffic offenses is that in urban areas employees must have to reach the on time at the office and because of that they will disobey all the traffic rules to reach on time and they get catastrophe and hurt their lives.
+Parking a car can be extremely difficult in big cities.
 
-People tend to travel alone. Cars and road space are not used efficiently. This causes traffic jams during the rush hour.
+People tend to travel alone.
 
-Public transport is often slow and unreliable. Cars are much more comfortable.
+Public transport can help to reduce pollution in cities.
 
-Speed cameras have become more common. Speed bumps are another form of traffic calming. Many streets are designed with the aim of slowing traffic down.
+Public transport is often slow and unreliable.
 
-Television campaigns are used to remind people to drive safely. Driving while tired or drunk is extremely dangerous.
+Public transport needs to be reliable and efficient.
+
+Speed cameras have become more common.
+
+Speed bumps are another form of traffic calming, many streets are designed to slow traffic down.
+
+Television campaigns are used to remind people to drive safely.
 
 The first one is air pollution since using many cars emits a huge amount of exhaust fumes into the air.
 
 The number of people, who have access to their own cars, has risen sharply in recent years.
 
+The use of phones while driving has been banned in many countries.
+
 This trend of traveling negatively affects commuters' efficiency and substantially contributes to the deterioration of the environment.
 
-Traffic congestion is caused by commuters traveling to work. Most people live in the suburbs outside city centre. Commuters tend to travel at the same time of day.
+Traffic congestion is caused by commuters traveling to work.
 
-We need to reduce our dependence on cars. Parking a car can be extremely difficult in bit cities.
+We need to reduce our dependence on cars.
 
-Well-designed transport systems are comfortable and convenient. Modern public transport can be fast and cheap. Public transport can help to reduce pollution in cities.
+Well-designed transport systems are comfortable and convenient.
 
-Workers could be given flexible timetables. Workers should share their cars and travel together. Public transport needs to be reliable and efficient.
+Workers could be given flexible timetables.
+
+Workers should share their cars and travel together.
 
 TV.
 
@@ -2462,9 +2574,9 @@ Children should play outside rather than sit in front of a screen all day.
 
 Close community ties often can't withstand the onslaught of TV programs, which induces people to shut the door, sit on the couch, and stare at the screen.
 
-From what I have mentioned above, we can see clearly that violence on TV has a great influence on youngsters' behavior.
+Documentaries can make learning more interesting.
 
-News coverage makes the public aware of events around the world. Documentaries can make learning more interesting.
+Most programs do not require much though.
 
 Programs can also be informative and educational.
 
@@ -2472,15 +2584,15 @@ Some people link violence on television with crime rates in the real world.
 
 Television brings the best comedians, musicians and actors into our homes.
 
-Television has many benefits. However, it can be addictive.
+Television has many benefits.
 
-Television is having a negative impact on society. Most programs do not require much though.
+Television is having a negative impact on society.
 
 Television is more than just an electronic appliance; it is a means of expression, as well as a vehicle for communication, and as such becomes a powerful tool for reaching other human beings.
 
 Television is the most effective of these three media because it brings us closer to reality than a book or radio program ever can.
 
-Television programs can be entertaining and enjoyable. Viewers have access to a huge variety of entertainment channels. 
+Television programs can be entertaining and enjoyable.
 
 The right to watch TV should not be denied by the parents in this fashion.
 
@@ -2488,59 +2600,77 @@ TV alienates family members by absorbing their time and attention which can othe
 
 TV companies should make more positive and educational programs.
 
-Watching television is a good way to relax. It is many people's favorite way to wind down after a hard day at work.
+Viewers have access to a huge variety of entertainment channels. 
+
+Watching television is a good way to relax.
 
 Watching TV is a waste of time.
 
+We can see clearly that violence on TV has a great influence on youngsters' behavior.
+
 Unemployment.
+
+All citizens should work to earn a living and support themselves.
+
+Jobless people may become involved in crime as a means to get money.
 
 Receiving benefits affects people's self-esteem.
 
-Some people are unable to find a job. They may not have a sufficient level of education or qualifications. The unemployed need career advice. Governments need to provide vocational courses and retraining.
+Some people are unable to find a job. 
 
-Some people claim benefits rather than working. They become dependent on the government. They are not motivated to find a job. All citizens should work to earn a living and support themselves.
+Some governments pay unemployment benefits in order to help jobless people.
 
-Some governments pay unemployment benefits in order to help jobless people. Unemployed people need financial support until they find a new job. By claiming benefits they can continue to pay for their homes.
-
-The benefits system helps to reduce poverty, homelessness and crime.
+The benefits system helps to reduce poverty, homelessness, and crime.
 
 The benefits system is a burden on taxpayers.
 
-Unemployment is a big problem for individuals, communities and society. Unemployment causes frustration and stress. Jobless people may become involved in crime as a means to get money.
+The unemployed need career advice.
+
+Unemployment causes frustration and stress.
+
+Unemployment is a big problem for individuals, communities, and society. 
+
+Unemployed people need financial support until they find a new job.
 
 University Education.
 
 Attending university provides individuals with essential knowledge and skills that are vital for success in the modern world.
 
-Formal education is no longer the sole path to success, and that alternative approaches such as vocational training or entrepreneurship can be as effective.
+Formal education is no longer the sole path to success, and alternative approaches such as vocational training or entrepreneurship can be as effective.
 
-While university education can provide valuable knowledge and skills, success is not exclusively determined by a degree. It is essential to recognize that success is subjective and encompasses many facets of life. 
+It is essential to recognize that success is subjective and encompasses many facets of life. 
+
+While university education can provide valuable knowledge and skills, success is not exclusively determined by a degree.
 
 Vegetarian.
 
-A healthy diet is possible without eating meat. It is unnecessary to kill animals for food.
+A healthy diet is possible without eating meat.
+
+A vegetarian diet may reduce the risk of diseases like cancer.
 
 In many cultures, meat is the main ingredient in traditional meals.
 
+Many people choose a vegetarian diet for moral or health reasons.
+
 Many people question the treatment of animals in factory farms.
 
-Meat-eaters argue that animals are below humans in the food chain. It is completely natural for us to kill them for food.
+Meat-eaters argue that animals are below humans in the food chain.
 
 Our aim should be to improve farming methods.
 
 Vegetarians do not eat a balanced diet.
 
-Vegetarians do not eat foods that are produced by killing animals. Many people choose a vegetarian diet for moral or health reasons. A vegetarian diet may reduce the risk of diseases like cancer.
+Vegetarians do not eat foods that are produced by killing animals. 
 
 Visual Image.
 
-Critics of visual images in news stories assert that they cannot represent the whole story. Photographs and videos are static and can be taken out of context. They may not provide a complete idea of what happened.
+Critics of visual images in news stories assert that they cannot represent the whole story.
 
 Many people believe that visual images are an essential tool in presenting news stories accurately. 
 
-Some people argue that visual images do not necessarily represent the full story.
+Photographs and videos are static and can be taken out of context, they may not provide a complete idea of what happened.
 
-Those who support the use of visual images in news stories argue that they can provide a better understanding of events, making them more accessible to a wider audience.
+Some people argue that visual images do not necessarily represent the full story.
 
 Visual images are an essential aspect of a news story, but they should be combined with other forms of information to provide a comprehensive understanding.
 
@@ -2550,97 +2680,117 @@ Visual images can be useful in telling a news story, but they should not be reli
 
 Visual images can efficiently make a news story more appealing and comprehensible.
 
-Visual images do not represent the full story in news, and they can be easily manipulated.
+Visual images do not represent the full story in the news, and they can be easily manipulated.
+
+Visual images in news stories can provide a better understanding of events, making them more accessible to a wider audience.
 
 Water.
 
-As populations grow, there is more pressure on water supplies. This could lead to a water crisis. Areas that suffer droughts often need to import water. Water is becoming scarce in some countries.
+A water crisis could lead to political conflicts or even wars.
+
+As populations grow, there is more pressure on water supplies.
 
 Companies should not be able to make a profit from water. It is unethical to make money by selling packaged water.
 
-Drinking water is not contaminated by sewage or waste water.
+Drinking water is not contaminated by sewage or wastewater.
 
-However, other people believe that we should consume less bottled water. Plastic water bottles add to litter and waste problems.
+Huge amounts of water are needed for agriculture and industry.
 
-Huge amounts of water are needed for agriculture and industry. The irrigation of crops accounts for a large proportion of water use.
+If water is free, people take it for granted.
 
-If water is free, people take it for granted. They do not think about how much water they waste. They leave taps running while washing or brushing their teeth. If we have to pay for water, we will use it more responsibly.
+If we have to pay for water, we will use it more responsibly.
 
-Private companies may provide a better service than governments If they provide an efficient service, they will make more money. They will repair leaks to avoid losng money.
+Money from taxes can be used to pay for water supply systems.
+
+Poor water quality is a major cause of disease and death in some countries.
 
 Private companies should not be allowed to profit from this natural resource.
 
-Some people believe that water should be free for everyone. Governments should supply water to all homes at no cost. Money from taxes can be used to pay for water supply systems.
+Some people believe that water should be free for everyone.
 
-Some people carry bottles of water wherever they go. For example, they take bottles of water to work or to the gym. They believe that bottled water is healthier than tap water. But there is no difference in quality between bottled and tap water.
+Some people carry bottles of water wherever they go.
 
 The supply of clean water would improve public health in many developing countries.
 
-The supply of water is also an important political issue. A water crisis could lead to political conflicts or even wars.
+The supply of water is also an important political issue.
 
-Urban life would be impossible without water supply systems. These systems are massive engineering projects. The supply and distribution of water are major concerns. Many professionals are involved in their planning, construction and maintenance.
+Urban life would be impossible without water supply systems.
 
-Water is a necessary natural resource. Humans need access to clean and safe drinking water in order to live. Poor water quality is a major cause of disease and death in some countries.
+Water is a necessary natural resource.
 
-Water supply systems are extremely expensive. Investment is needed to maintain and improve them.
+Water is becoming scarce in some countries.
 
-Water usually needs to be treated before we can drink it. Developing countries often lack the means to treat and supply water to citizens. Developed countries tend to have much better sanitation. Citizens have access to clean tap water.
+Water supply systems are extremely expensive.
+
+Water usually needs to be treated before we can drink it.
+
+We should consume less bottled water, plastic water bottles add to litter and waste problems.
 
 Wealth.
 
-Wealth does not lead to happiness. Materialism causes greed and crime. We should return to traditional values like sharing.
+We should return to traditional values like sharing.
+
+Wealth does not lead to happiness.
 
 Weapons.
 
 Governments are promoting war in order to make a profit.
 
-Governments of rich and industrialized countries sell arms to each other. The trade of weapons may improve relationships between governments.
+Governments of rich and industrialized countries sell arms to each other. 
 
-In some countries, people are allowed to own firearms. Individuals have the right to protect themselves. People can use guns in self-defense, which deters criminals.
+Guns create violent societies with high murder rates.
 
-Many criminals use weapons. The police may shoot violent criminals in self-defense.
+Many criminals use weapons.
 
 Only special police units should use guns.
 
-Police can shoot an escaping criminal who poses a serious danger to the public. This can protect the public.
+People can use guns in self-defense, which deters criminals.
+
+Police can shoot an escaping criminal who poses a serious danger to the public.
 
 Rich countries can influence the politics of other nations.
 
-The export of arms, or weapons, is an extremely controversial issue. This industry creates jobs and wealth.
+The export of arms, or weapons, is an extremely controversial issue.
 
-The number of violent crimes increases when guns are available. Guns create violent societies with high murder rates. Criminals may be armed. The police then need to use guns.
+The number of violent crimes increases when guns are available. 
 
 The police might shoot an unarmed criminal or an innocent person.
 
-The threat of a gun can deter criminals. Police officers can force a criminal to surrender. It is easier to arrest someone and avoid physical violence.
+The supply of arms could be responsible for deaths.
 
-There is a risk of accidents with guns. Suicide rates have been shown to rise when guns are available.
+The threat of a gun can deter criminals.
 
-There is a risk of accidents and mistakes. Accidents can happen in public places.
+The trade of weapons may improve relationships between governments.
 
-There are several alternatives to guns (e.g. tear gas, sprays and electric shock weapons).
+There is a risk of accidents with guns.
 
-Weapons may be used in conflicts and wars. The supply of arms could be responsible for deaths.
+There is a risk of accidents and mistakes.
+
+There are several alternatives to guns.
+
+Weapons may be used in conflicts and wars.
 
 Weather.
 
-Summer is sultry. That's the reason why I don't like it.
-
-Weather a large family is a good thing or not is a very popular topic, which is often talked about not only by city residents but by farmers as well.
+Summer is sultry.
 
 Work.
 
-A good work/life balance can raise job satisfaction. Happy, healthy workers are more productive.
-
-An employee should be rewarded as per his or her contribution to the company, which should be measured by using objective criteria as much as possible. 
+A good work-life balance can raise job satisfaction.
 
 Being a leader is more conducive to personal growth.
 
-Companies shouldn't expect employees to work overtime. Many companies provide childcare facilities.
+Companies shouldn't expect employees to work overtime.
+
+Happy, healthy workers are more productive.
+
+It is important to achieve a balance between work time and leisure or family time.
+
+Many companies provide childcare facilities.
 
 Many employees are willing to work for companies where they can obtain promotional opportunities.
 
-Nowadays, many people work part-time or have flexible working hours. Technology allows people to work from home.
+Nowadays, many people work part-time or have flexible working hours.
 
 Older workers are replaced because they long lost their enthusiasm for work and hamper innovation by always doing things the old way.
 
@@ -2652,7 +2802,7 @@ People with a heavy workload do not have adequate time to rest.
 
 The harder you work, the more progress you make.
 
-Too much work can result in stress and poor health. "Workaholics" may neglect their families and friends. It is important to achieve a balance between work time and leisure or family time.
+Too much work can result in stress and poor health.
 
 We should bring home to people the value of working hard.
 
@@ -2666,19 +2816,21 @@ Working long hours has become the norm in companies.
 
 Zoo.
 
-Some people believe that zoos are unethical. Zoos exhibit animals with the aim of making money. We have no right to use animals for entertainment and profit.
+Some people believe that zoos are unethical.
 
 The best way to save endangered species is by protecting natural habitats.
 
-Zoos play an important role in wildlife conservation. They can help to protect endangered species.
+Zoo animals are kept in artificial environments. They are kept in cages or have limited space.
+
+Zoo animals rely on humans. They lose the freedom to hunt for food.
 
 Zoos are educational, interesting and fun. Children, in particular, enjoy learning about animals.
 
 Zoos allow scientists to study animals and their behavior.
 
-Zoo animals are kept in artificial environments. They are kept in cages or have limited space.
+Zoos exhibit animals with the aim of making money, we have no right to use animals for entertainment and profit.
 
-Zoo animals rely on humans. They lose the freedom to hunt for food.
+Zoos play an important role in wildlife conservation.
 
 Other.
 
@@ -2694,7 +2846,7 @@ Time and tide wait for no man.
 
 Experience is the best teacher.
 
-Badtime makes a good man.
+Bedtime makes a good man.
 
 Sow nothing, reap nothing.
 
@@ -2724,7 +2876,7 @@ An idle youth, a needy age.
 
 Keep on going and never give up.
 
-You want something, go get it.
+If you want something, go get it.
 
 I'm always here if you need me.
 
@@ -2734,7 +2886,7 @@ If you can dream it, you can do it.
 
 What pains us trains us.
 
-You can't judge a person from his appearance.
+You can't judge a person by his appearance.
 
 We get to decide what our story is.
 
@@ -2752,7 +2904,7 @@ Ability is of little account without opportunity.
 
 Pessimism leads to weakness, optimism to power.
 
-Dependence is misery, independence is happiness.
+Dependence is misery, and independence is happiness.
 
 A room without books is like a body without a soul.
 
@@ -2770,15 +2922,15 @@ Don't trouble trouble until trouble troubles you.
 
 Confidence in yourself is the first step on the road on the road to success.
 
-An apple aday keeps the doctor away.
+An apple day keeps the doctor away.
 
-If heaven made him, earth can find some use for him.
+If heaven made him, the earth could find some use for him.
 
 Eat to live, but not live to eat.
 
 Sometimes accompanied sometimes alone stay awesome all the time.
 
-Early to bed and early to rise makes a man healthy, wealthy and wise.
+Early to bed and early to rise to make a man healthy, wealthy, and wise.
 
 The happier you are, the more beautiful you become.
 
@@ -2794,25 +2946,25 @@ A friend in need is a friend indeed.
 
 Actions speak louder than words.
 
-I like simple and clean life, so do I make friends.
+I like a simple and clean life, so do I make friends.
 
 The secret of success is constancy to purpose.
 
 Life would be too smooth if it had no rubs in it.
 
-You are a young love and sweet for the rest of mylife.
+You are a young love and sweet for the rest of my life.
 
 A bad beginning makes a bad ending.
 
 Cross the stars over the moon to meet your better-self.
 
-I like the night, Without the dark, we'd never seethestar.
+I like the night, Without the dark, we'd never see the star.
 
 A little knowledge is a dangerous thing.
 
 Everything will be ok in the end, if it's not ok, it's not the end.
 
-Behind every successful man there's a lot of unsuccessful years.
+Behind every successful man, there are a lot of unsuccessful years.
 
 How wonderful life is while you're in the world.
 
@@ -2828,9 +2980,9 @@ I hope we can all be as brave as each other.
 
 Don't get all sad-faced about what happened and scrunchy-faced about what could.
 
-He would climb the ladder must begin at the bottom.
+He would climb the ladder and begin at the bottom.
 
-If you find a path with no obstracles, It probably doesn't lead anywhere.
+If you find a path with no obstacles, It probably doesn't lead anywhere.
 
 All work and no play makes Jack a dull boy.
 
@@ -2846,7 +2998,7 @@ Don't cry because it is over, smile because it happened.
 
 When I love you, I always feel that I'm not good enough.
 
-Tired to look back, you will find that I have been behind you.
+Tired of looking back, you will find that I have been behind you.
 
 Don't undermine your worth by comparing yourself and others.
 
@@ -2854,7 +3006,7 @@ I'm dark all over, and I always want to give sunshine to others.
 
 Thou hast nor youth nor age. But as it were an after-dinner sleep, Dreaming of both.
 
-It's better to have fought and lost, than never to have fought at all.
+It's better to have fought and lost than never to have fought at all.
 
 Action is the foundational key to all success.
 
@@ -2871,3 +3023,9 @@ We have no right to take another human life.
 This problem has caused wide public concern in most cities all over the world.
 
 As an old saying goes: All work and no play makes Jack a dull boy.
+
+By working hard we can achieve our goal where we put our minds to.
+
+As a popular saying goes, "Everything has two sides."
+
+Fortunately or unfortunately, mankind is always pushing for something better
