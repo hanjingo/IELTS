@@ -1,0 +1,7 @@
+The first chart illustrates Australian household energy use. The second chart describes Australian household greenhouse gas emissions.
+
+We can see from the first pie chart that in terms of energy use, heating accounts for the biggest percentage of the six items, which is 42%, and water heating occupies the second place at 30%. Although the percentage of refrigeration (7%) is smaller than that of other appliances (15%), it is bigger than that of lighting (4%). Cooling occupies the smallest percentage (2%). The percentage of heating is 21 times as much as that of cooling.
+
+It can be seen from the second pie chart that as for greenhouse gas emissions, water heating ranks first position in the six aspects, which is followed by other appliances. The percentage of heating is slightly bigger than that of refrigeration (15% and 14% respectively). Cooling still occupies the last place and its percentage (3%) is much smaller than that of lighting (8%).
+
+Only in terms of heating, the percentage of energy use is bigger than that of greenhouse gas emissions. In the area of the other five aspects, the percentage of energy use is smaller than that of greenhouse gas emissions.
