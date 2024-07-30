@@ -1,0 +1,8 @@
+These are pie charts indicating information about the percentage of water consumed for 3 different purposes in six regions throughout the world.
+
+As reflected in the data, agriculture constituted the largest 88% of total water in Central Asia, exceeding that of Africa by 4%. It is immediately followed by South East Asia and South America, where respectively 81% and 71% of water is allocated to agriculture. In contrast, water used either for industry or for households comprised a minority percentage of water among the 4 areas questioned, with water for domestic use in South America accounting for the largest figure at 19% and ranking first for this purpose among all 6 regions. Besides, the smallest figure of water use for all purposes is recorded in industry in Central Asia, which consumes merely 5% of water in this area.
+
+The case is totally different in North America and Europe, where industry is the largest water consumer, and where water for this purpose approximates half of the total. Next comes agriculture, consuming 39% and 32% of water, and almost doubling that of family use. Also noteworthy is that among six areas, Europe distributes the largest 53% of its water resources to industry.
+
+Overall, agriculture is the predominant water consumer, while a reversed trend is almost true with domestic use.
+

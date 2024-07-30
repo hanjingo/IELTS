@@ -223,7 +223,7 @@ amount of time, the time spent on, in terms of, throughout the period, the perio
 1. 一定要提到流程中的每一个步骤；
 2. 使用一些排序地单词，比如：at the first/second/following/final stage of the process, next, after that, then, finally等等；
 3. 时间（比如日期）通常是不显示的，所以一般情况下都是一般现在时；
-4. 使用被动语态是一个加分技巧；比如："At the final stage, the product is delivered to shops"。
+4. 使用被动语态是一个加分技巧；比如:"At the final stage, the product is delivered to shops"。
 
 例：
 

@@ -1,0 +1,7 @@
+The flow chart illustrates the various stages in the production of electricity from geothermal energy.
+
+The process witnesses five steps overall. As can be seen, first of all, cold water is pumped down from a tank connected to the ground to the injection well underground with a depth of 4.5 kilometers. After that, it passes through the so-called geothermal zone where there are hot rocks used to heat the water. The hot water is subsequently piped to the production well.
+
+Following that, it is pumped up the condenser installed on the ground, which converts hot water into steam. At the next stage of the process, the steam, moving in a circular movement, is applied to drive a turbine, which powers a generator to produce electricity. Energy is transmitted to an energy tower finally.
+
+To summarize, the geothermal power plant is harnessed to generate electricity through two distinct stages: heating cold water with hot rocks and converting hot water into steam to power a turbine. It is noteworthy that the former stage occurs underground, while the latter happens on the ground.

@@ -1,6 +1,6 @@
 Communication.
 
-Young people should be encouraged to communicate with their peers and develop their interpersonal skills.
+Both the free sharing of information and the protection of sensitive data are important
 
 Communication and isolation must not be defined in a narrow sense.
 
@@ -12,9 +12,21 @@ Commuting time has been prolonged because of traffic congestion.
 
 Evaluation and criticism are themselves effective forms of communication.
 
+Open access to data and findings allows researchers to build on each other's work, accelerating discoveries and technological advancements
+
 People need to improve their relationships with others around them.
 
+Proponents of free information sharing argue that it fosters innovation and progress.
+
+Some information is deemed too sensitive or valuable to be shared without restrictions.
+
+Unrestricted access to sensitive information can lead to misuse or ethical concerns.
+
 We should not ignore face-to-face communication.
+
+While the free exchange of information has numerous benefits, it is crucial to implement safeguards for sensitive data.
+
+Young people should be encouraged to communicate with their peers and develop their interpersonal skills.
 
 Competition.
 
@@ -48,15 +60,17 @@ People differ in their attitudes towards failure.
 
 Freedom.
 
+An excess of choices can dilute the quality of our experiences.
+
 Freedom of speech is a basic right for all citizens, more so for artists.
 
-Future.
+Having a wide range of choices allows for great personalization and the ability to find options that closely match individual preferences and needs.
 
-A much better and brighter future awaits us.
+Having too many choices can lead to decision fatigue and anxiety.
 
-Any attempts to predict the future will be futile. But one thing is certain, that is...
+The abundance of choices available today can lead to decision fatigue and reduced satisfaction.
 
-The future is in our hands.
+The range of choices available to individuals in various aspects of life.
 
 Help.
 
@@ -117,3 +131,25 @@ The relationship with one's fellow human being also adds to one's stress.
 Modern lifestyles are increasingly stressful.
 
 Unemployment is a major cause of stress.
+
+Success.
+
+A man can succeed at almost anything for which he has unlimited enthusiasm.
+
+Behind every successful man, there are a lot of unsuccessful years.
+
+Being successful means achieving personal or professional goals.
+
+Experience shows that success is due less to ability than to zeal.
+
+Millionaires like Bill Gates are considered to be successful.
+
+People define success in different ways.
+
+Success in any field requires long-term planning and effort.
+
+Success is defined by wealth or status.
+
+They see success as the result of hard work.
+
+We often think of rich and famous people as being successful in life. 

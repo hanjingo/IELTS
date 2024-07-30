@@ -1,8 +1,8 @@
 The bar chart illustrates the proportion of households living in owned and rented accommodation in England and Wales from 1918 to 2011.
 
-Overall, the general trend over this period shows a significant increase in homeownership, while the proportion of rented accommodation has correspondingly decreased. However, there were some fluctuations within this trend.
+Overall, the general trend over this period shows a significant increase in homeownership, while the proportion of rented accommodation has correspondingly decreased. However, there were some fluctuations in this trend.
 
-In 1918, the vast majority of households (around 78%) were in rented accommodation, with only about 22% owning their homes. This pattern remained relatively stable through the following decades, with slight changes in 1939 and 1953, when the percentage of rented accommodation was approximately 68% and 69% respectively.
+In 1918, the vast majority of households (around 78%) were in rented accommodation, with only about 22% owning their homes. This pattern remained relatively stable through the following decades, with slight changes in 1939 and 1953 when the percentage of rented accommodation was approximately 68% and 69% respectively.
 
 Starting from 1961, a notable shift began, with the percentage of homeownership rising steadily. By 1971, the gap between rented and owned accommodation had narrowed significantly, with about 50% of households owning their homes and 50% renting. This marked the first time that the proportions were equal.
 
