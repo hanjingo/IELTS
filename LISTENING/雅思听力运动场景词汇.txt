@@ -27,3 +27,6 @@ water-skiing
 
 kite-surfing
 风筝冲浪
+
+stadium
+体育馆

@@ -108,3 +108,6 @@ firework display
 
 ballet
 芭蕾舞
+
+shopping mall
+商场

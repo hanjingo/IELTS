@@ -1,4 +1,3 @@
-
 refreshment
 恢复（精力）
 
@@ -397,3 +396,9 @@ tricky
 
 gentle river
 缓慢流动的河流
+
+scenery
+风景
+
+excursion
+远足；短途旅行

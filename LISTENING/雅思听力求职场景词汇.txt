@@ -193,12 +193,6 @@ ingredient
 stunning
 震耳欲聋
 
-scenery
-风景
-
-excursion
-远足；短途旅行
-
 fitness
 健康；适当
 

@@ -1,6 +1,9 @@
 enroll
 登记
 
+signing up for membership
+签会员
+
 council
 理事会
 
@@ -39,12 +42,6 @@ paid quarterly
 
 novices
 新手
-
-stadium
-体育馆
-
-shopping mall
-商场
 
 fit in
 结束
