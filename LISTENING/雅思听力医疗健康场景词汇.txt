@@ -91,3 +91,6 @@ instructor
 cholesterol
 胆固醇
 
+dentist
+牙医
+

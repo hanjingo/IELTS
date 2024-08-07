@@ -402,3 +402,6 @@ scenery
 
 excursion
 远足；短途旅行
+
+holiday resort
+度假胜地

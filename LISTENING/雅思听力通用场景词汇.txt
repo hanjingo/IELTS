@@ -340,12 +340,6 @@ It's not ideal
 suburb
 郊区
 
-dentist
-牙医
-
-estate agent
-房产中介
-
 headphone
 (头戴式)耳机
 
@@ -355,5 +349,3 @@ earphone
 thank goodness
 谢天谢地
 
-holiday resort
-度假胜地
