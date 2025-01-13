@@ -1,66 +1,56 @@
-dialect
-方言
+social matter
+社会问题
 
-slang
-俚语
+social problems
+社会问题
 
-mother tongue
-母语
+social status
+社会地位
 
-accent
-口音
+social movement
+社会运动
 
-liter
-公升
+socio-economic
+社会经济的
 
-incineration
-焚烧
+feud
+封地
 
-crystal
-晶体
+territory
+领地
 
-fax
-传真
+reform
+改革
 
-hoove
-蹄子
+agrarian reform
+土地改革
 
-sponsorship
-赞助
+innovative
+革新的
 
-charity
-慈善
+patriotism
+爱国主义
 
-legislation
-立法
+provocative
+煽动性的
+
+values-affirmation
+价值观确认
+
+fanatic
+极端分子
+
+autocratic
+独裁的
 
 modernize
 现代化
 
-major refurbishment
-大修
+charity
+慈善
 
-interior
-内部
+taxation
+税收
 
-route
-路线
-
-fare
-票价
-
-pedestrian
-步行者
-
-bypass
-绕过
-
-adjoining land
-毗邻土地
-
-demolition
-毁坏
-
-redecorate
-再装修
-
+city council
+市议会

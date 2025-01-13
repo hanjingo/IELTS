@@ -1,32 +1,26 @@
-occupation
-职业
+give sb. a sack
+解雇
 
-vacancy
-职位空缺
+kick sb. out of work
+解雇
 
-day shift
-日班
+sacked
+解雇的
 
-reference
-推荐信
-
-competence
-称职
+pink slip
+解雇通知书
 
 occupation
 职业
 
-permanent
-永久的
+profession
+职业
 
-reception desk
-接待处
+field trip
+实习
 
-job hunting
-求职
-
-staff
-职员
+field work
+实习
 
 personnel officer
 人力资源主管
@@ -34,38 +28,134 @@ personnel officer
 personnel manager
 人力资源经理
 
-national holiday
-公共假期
+staff
+职员
 
-workshop
-工作室
+trainee
+培训生
 
-vocational school
-职业学校
+financial executive
+财务主管
 
-private assistant
-私人助理
+assistant manager
+副经理
 
-uni
-大学
+director
+董事
+
+centre manager
+大堂经理
+
+catering staff
+餐饮部职工
+
+accountant
+会计
+
+receptionist
+接待员
+
+head chef
+主厨
 
 clerical assistant
 助理文员
 
-answer the phone
-接电话
+private assistant
+私人助理
+
+technician
+技术员
+
+secretary
+秘书
+
+mayor
+市长
+
+councilor
+议员
+
+lifeguard
+救生员
+
+babysitter
+临时照顾幼儿者
+
+maid
+(女)仆人
+
+servant
+仆人
+
+maid servant
+(女)仆人
+
+cashier
+收银员
+
+permanent job
+长期工
+
+day shift
+日班(=dayshift)
+
+shift work
+倒班
+
+unsocial hours
+非正常工作时间(996)
+
+certificate
+证书
+
+CV
+简历（缩写）
+
+layout of resume
+简历的版面格式
+
+certificate of childcare
+幼儿护理证书
+
+diploma
+毕业证书
+
+work permit
+工作许可证
 
 arrange an interview
 安排面试
 
-vacant
-空缺的
-
 come for an interview
 过来面试
 
-advert
-广告
+hired out
+被录用
+
+subsidy
+津贴
+
+commission
+佣金
+
+fringe benefits
+额外福利
+
+recommendation
+推荐
+
+reference
+推荐信
+
+vacancy
+职位空缺
+
+competence
+称职
+
+job hunting
+求职
 
 answering the phone
 接听电话
@@ -73,143 +163,5 @@ answering the phone
 waiting at table
 在餐桌旁服务
 
-work permit
-工作许可证
-
-fringe benefits
-额外福利
-
-hostel food
-旅馆食物
-
-perk
-小费
-
-what qualities you're looking for? 
-你要求什么技能
-
-be devoted to...
-致力于...
-
 leaflet
 传单
-
-backstage tour
-后台导览
-
-amateur
-业余的
-
-permanent job
-长期工
-
-temporary
-临时的
-
-fortnight
-两星期
-
-food allergy
-食物过敏
-
-allergic
-过敏
-
-bravo
-喝彩
-
-certificate
-证书
-
-overwhelmingly
-反馈
-
-CV
-简历（缩写）
-
-send text
-发短信
-
-dismissive
-不屑一顾
-
-groceries
-日常杂货
-
-get shouted
-被吼
-
-move...up
-运转
-
-get it well out of the way
-处理干净
-
-bracelets
-手镯
-
-safety hazard
-安全隐患
-
-head chef
-主厨
-
-get a break
-休息一下
-
-lifting and carrying
-举起和搬运
-
-smash
-打碎
-
-perishables
-易腐蚀物
-
-flour
-面粉
-
-session
-开会
-
-white water rafting
-漂流
-
-thrill
-激动
-
-ordinary
-普通的
-
-draw
-画
-
-recipe
-食谱
-
-ingredient
-配料
-
-stunning
-震耳欲聋
-
-fitness
-健康；适当
-
-consultation
-咨询；磋商
-
-draw up programme
-制定方案
-
-diploma
-毕业证书
-
-trainee
-培训生
-
-casual
-随意
-
-jeans
-牛仔裤

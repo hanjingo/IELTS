@@ -1,11 +1,47 @@
-meshing
-建网
+wasteland
+荒地
+
+barren
+荒地
+
+barren land
+荒地
+
+coastal
+海滨
+
+seashore
+海滨
+
+ashore
+在陆上的
+
+onshore
+陆上的
+
+oceania
+大洋洲
+
+antarctica
+南极洲
+
+the pacific ocean
+太平洋
+
+the atlantic ocean
+大西洋
+
+the indian ocean
+印度洋
+
+the arctic ocean
+北冰洋
 
 weather
 天气
 
-desert
-沙漠
+meteorological
+气象的
 
 mild
 温暖的
@@ -28,74 +64,35 @@ tornado
 hurricane
 飓风
 
-drought
-干旱
+high wind
+疾风
 
 typhoon
 台风
 
-oceania
-大洋洲
+dry
+干涸
 
-antarctica
-南极洲
+drought
+干旱
 
-the pacific ocean
-太平洋
+tilled land
+耕地
 
-the atlantic ocean
-大西洋
+irrigable land
+水浇地
 
-the indian ocean
-印度洋
+reed beds
+芦苇地
 
-the arctic ocean
-北冰洋
+wetland
+湿地
 
-treaty
-条约
+marsh
+沼泽
 
-expedition
-探险
+inland region
+内陆地带
 
-dome
-穹顶
-
-ape
-类人猿
-
-anthill
-蚁丘
-
-dominant
-主宰
-
-laterality
-偏侧化
-
-spectacular
-壮观的
-
-profile
-轮廓
-
-satellite
-人造卫星
-
-salinity
-盐分
-
-onshore
-陆上的
-
-meteorological
-气象的
-
-ozone depletion
-臭氧消耗
-
-yachtsmen
-游艇驾驶员
-
-broaden the gene pool
-拓展基因库
+habitat
+栖息地

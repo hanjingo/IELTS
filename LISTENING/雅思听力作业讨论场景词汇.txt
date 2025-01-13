@@ -1,173 +1,68 @@
-tutor
-导师
+controversy
+争议
 
-catalogues
-目录
+dispute
+争论
 
-checklist
-一览表
+uni
+大学
 
-assessment
-评估
+university
+（综合性） 大学
 
-integrate
-整合
+compulsory course
+必修课
 
-refectory
-食堂
+obligatory course
+必修课
 
-eligible
-合格的
+required course
+必修课
 
-fitness
-适合
+college
+学院
 
-cassette
-盒式磁带
+polytechnic
+理工学院
 
-neglect
-忽视
+chancellor
+校长
 
-notion
-概念
+principal
+校长
 
-sychological
-心理学
+head master
+(中小学)校长
 
-overrated
-高估
-
-incentive
-刺激
-
-individuality
-个性
-
-tricky
-棘手的
-
-strain
-拉紧；劳累
-
-seminar
-研讨会
-
-archaeological
-考古学
-
-interpretation
-翻译；解释
-
-scholar
-学者
-
-engrave
-雕刻
-
-giraffe
-长颈鹿
+sensible
+明智的
 
 wise
 聪明的
 
-drawn
-憔悴的
+tricky
+狡猾的
 
-unintentional
-非故意的
+school of arts and sciences
+文理学院
 
-fragile
-易碎的
+vocational school
+职业学校
 
-heroics
-装腔作势的演说或行为
+technical institution
+技校
 
-intact
-完好无缺的
+academy
+专科院校
 
-insect
-昆虫
+residential college
+寄宿学院
 
-over to you
-交给你
+boarding school
+寄宿学校
 
-quarantine
-检疫
-
-have a part to play
-能在...中发挥作用
-
-eradicate
-根除
-
-infest
-大批出没于
-
-mite
-螨虫
-
-microscopic creature
-微生物
-
-bush
-灌木
-
-devastate
-摧毁
-
-flora
-植物群
-
-stung
-蛰
-
-allergic reaction
-过敏反应
-
-cough up
-支付
-
-pellet
-丸
-
-moisten
-变得潮湿
-
-scrunch up
-挤扁
-
-insight
-洞察力
-
-inspire
-激励
-
-rationale
-基本原理
-
-counteract the effects
-消除影响
-
-anticipate
-预料
-
-odd
-古怪的
-
-reassurance
-保证
-
-bizarre
-奇怪的
-
-agency
-机构
-
-volcanoes
-火山
-
-sign up for ... lesson
-报名参加课程
+day school
+日校, 走读学校
 
 kindergarten
 幼儿园
@@ -178,443 +73,203 @@ primary school
 high school
 中学
 
-university
-（综合性） 大学
-
-college
-学院
-
 institute
 研究所
-
-academy
-专科院校
-
-polytechnic
-理工学院
-
-confident
-自信的
-
-keep eye contact with...
-与...保持眼神交流
-
-frankly
-真诚地
-
-that's a pity
-那真是太可惜了
-
-colloquialism
-口语
-
-frustrate
-令人沮丧
-
-jot down
-记下
-
-coping well with
-擅长
-
-statistics
-统计学
-
-dissertation
-专题论文
-
-sufficient
-足够的
-
-consult
-商议
-
-get points down in...
-在...得到分数
-
-discipline
-学科
-
-jot down
-记下
-
-coping well with
-应对良好
-
-statistics
-统计学
-
-dissertation
-专题论文
-
-weak at...
-弱点在...
-
-pharmacy
-药剂学
-
-grant credit
-授予学分
-
-assertive
-断言
-
-faculty
-院系
-
-hospital dispensary
-医院药房
-
-recommendation
-建议
-
-be familiarity with...
-熟悉...
-
-stem disciplines
-STEM学科
-
-underrepresent
-代表性不足
-
-introductory
-引导的
-
-values-affirmation
-价值观确认
-
-assess
-评定
-
-field trip
-实地考察
-
-procedure
-步骤
-
-slope
-倾斜
-
-shore
-海滨
-
-piece of string
-一根绳子
-
-rock pools
-岩石池
 
 lab
 实验室
 
-potassium
-钾
+laboratory
+实验室
 
-chromate
-铬酸盐
+self-access lab
+自助实验室
 
-seashore
-海滨
+workshop
+工作室
 
-amendment
-修改
+faculty
+院系
 
-splash zone
-飞溅区
-
-smashed
-喝醉酒的
-
-adequate
-适当的
-
-cave
-洞穴
-
-carnival
-狂欢节
-
-grass
-草
-
-wool hat
-羊毛帽
-
-scarf
-围巾
-
-interpretation
-解释
-
-cello
-大提琴
-
-granted
-的确
-
-keen to
-热衷于
-
-performance
-演出
-
-emerge
-暴露
-
-be worn on
-佩戴
-
-trivial
-琐碎
-
-esteem
-尊重
-
-vulnerable
-脆弱的
-
-intensive
-加强的
-
-that's as far as they go
-这就是他们所走的
-
-germination
-萌芽
-
-dissertation module
-学位论文
-
-tutor
-导师
-
-early stage of...
-...的发展早期
-
-procedure
-程序
-
-dimension
-尺寸规格
-
-plant pot
-培养盆
-
-nanotechnology
-纳米科技
-
-thought of an angle
-从一个角度来想
-
-brainstorm ideal
-头脑风暴
-
-obsolete
-老式的
-
-personal preference
-个人喜好
-
-make in-depth study
-深入学习
-
-archive
-存档
-
-diary
-日志
-
-fancy
-设想；幻想
+discipline
+学科
 
 literature
 文学
 
-saga
-传说
+stem disciplines
+STEM学科
 
-genre
-流派
+statistics
+统计学
 
-mythology
-神话
-
-fantasy
-幻想
-
-provocative
-煽动性的
-
-outline
-概述
-
-bullet points
-要点
-
-skeleton
-纲要
-
-ought
-应该
-
-sticking to
-坚持
-
-warden
-看守人
-
-faithful
-如实的
-
-film adaptation
-电影改编
-
-slides
-幻灯片
-
-patriotism
-爱国主义
-
-tricky
-狡猾的
-
-loose
-松散
-
-throne
-王座
-
-feud
-封地
-
-bizarre
-奇异的
-
-inter pretation
-互换
-
-innovative
-革新的
-
-stylistic
-风格上的
-
-fascination
-最爱的
-
-chronological
-按时间排序
-
-water-repellent
-防水
-
-abruptly
-突然地
-
-handouts
-讲义
-
-thought out
-周到
-
-commitment
-承诺
-
-setback
-挫折
-
-textile
-纺织品
-
-cotton
-棉花
-
-wool
-羊毛
-
-carpet
-地毯
+pharmacy
+药剂学
 
 botanic
 植物学的
 
-nylon
-尼龙
+anthropology
+人类学
 
-beetroot
-甜菜根
+sociology
+社会学
 
-pile
-堆
+psychological
+心理学
 
-tartrazine
-酒石黄
+archaeological
+考古学
 
-rinse
-冲洗
+dissertation
+专题论文
 
-turmeric
-姜黄
+dissertation module
+学位论文
 
-curry
-咖喱
+optional course
+选修课
 
-shade
-阴影
+specialised course
+专业课
 
-shellfish
-贝类
+refresher course
+进修课
 
-purple
-紫色
+tutor
+导师
 
-logwood
-洋苏木
+overseas student
+留学生
 
-glove
-手套
+mature student
+成人学生
 
-ingest
-食用
+domestic student
+本地学生
 
-cochineal
-胭脂虫红
+day pupil
+走读生
 
-cost a fortune
-贵
+teaching hours
+学时
 
-peanuts
-花生
+teaching method
+教学方法
 
-allergy
-过敏
+teaching syuabus
+教学大纲
 
-ready meal
-熟食
+study aids
+教学用具
 
-eye opener
-大开眼界
+grant credit
+授予学分
 
-transparent
-清晰
+handout
+讲义
 
-ingredient
-配料
+thesis
+毕业论文
 
-consistency
-连贯
+essay plan
+论文提纲
 
-crisps
-薯片
+oral defence
+论文答辩
 
-consultation
-磋商
+assess
+评定
 
-weird
-怪异的
+assessment
+评估
 
-socio-economic
-社会经济的
+commentary
+评注
 
-dunno
-（口语）不知道
+placement test
+分班考试
+
+pop test
+抽考
+
+close-book exam
+闭卷考试
+
+tutorial system
+小组讨论系统
+
+study circle
+学习小组
+
+study club
+学习俱乐部
+
+mind map
+思维导图
+
+thinking pattern
+思维模式
+
+general ideas
+总体思路
+
+catalogue
+目录
+
+checklist
+一览表
+
+curriculum
+课程表
+
+workbook
+作业本
+
+review promptly
+立即复习
+
+cramming
+死记硬背
+
+take down a few details
+记录细节
+
+jot down
+记下
+
+photocopies of notes
+笔记影印
+
+photocopies of articles
+复印文章
+
+photocopy office
+复印室
+
+integrate
+整合
+
+lecture
+讲课
+
+dialect
+方言
+
+slang
+俚语
+
+mother tongue
+母语
+
+accent
+口音
+
+colloquialism
+口语
+
+dictation
+口述
+
+get points down in...
+在...得到分数

@@ -1,407 +1,182 @@
-refreshment
-恢复（精力）
+excursion
+(短途)旅行
 
-foyer
-休息室
+round trip
+(往返)旅行
 
-auditorium
-礼堂
+reception area
+接待处
 
-stuffy
-(房间等)不通气的；沉闷的
+reception centra
+接待处
 
-backstage
-舞台后
+reception desk
+接待处
 
-airy
-通风的
+run risks
+冒险
 
-curtain
-窗帘
+take risks
+冒险
 
-airport shuttle
-机场巴士
+hazardous
+冒险的
+
+safari zoo
+野生动物园
+
+safari park
+野生动物园
+
+safari
+旅行队
+
+hostel
+旅行社
+
+travel agency
+旅行社
+
+lorry
+卡车
+
+van
+货车
+
+taxi
+计程车
 
 cab
 计程车
 
-fare
-票价
-
-garden
-花园
-
-restaurant
-餐馆
-
-shallower
-浅的；弱的
-
-central
-中央的
-
-commentary
-评注
-
-entail
-需要
-
-trek
-跋涉
-
-foothill
-山麓
-
-rucksack
-背包
-
-itinerary
-行程
-
-acclimatize
-适应（水土）
-
-culminate
-达到顶点；告终
-
-gorgeous
-非常漂亮的
-
-disoriented
-使迷失方向
-
-lag
-滞后
-
-opulent
-豪华的
-
-butique
-（女士）时装店；精品店
-
-mansion
-公馆
-
-plush
-豪华舒适的
-
-tropical
-热带的
-
-idyllic
-田园诗般的
-
-leisure
-休闲
-
-miniscule
-微乎其微的
-
-pillow
-枕头
-
-grazing
-牧场
-
-crop
-作物
-
 tram
 有轨电车
 
-goat
-山羊
+trolley
+(美)电车
 
-poultry
-家禽
+air shuttle bus
+机场巴士
 
-spectacular
-壮观的
+airport shuttle
+机场巴士
 
-geese
-鹅
+route
+路线
 
-blossom
-开花
+route map
+线路图
 
-seasonal calendar
-季节历
+itinerary
+路线,行程
 
-present time
-现在
+mileage
+里程
 
-orchard
-果园
-
-concert hall
-音乐厅
-
-spot light
-聚光灯
-
-venues
-聚会地点
-
-cater
-提供饮食
-
-city council
-市议会
-
-willow tree
-柳树
-
-dye
-染料
-
-insect
-昆虫
-
-hedge
-树篱
-
-bay
-海湾
-
-don't have to be too energetic
-不必太过精力充沛
-
-terrace
-阳台
-
-within budget
-在预算范围内
-
-pasta
-面团
-
-pizza
-比萨饼
-
-open-air museum
-露天博物馆
-
-breeds
-芦苇
-
-the ground is very uneven
-地面非常不平坦
-
-sandal
-凉鞋
-
-lamb
-羔
-
-scarecrow
-稻草人
-
-maze
-迷宫
-
-bend
-转弯
-
-picnics spot
-野餐点
-
-auditorium
-观众席
-
-box office
-售票处
-
-poster
-海报
-
-festival
-节日
-
-venue
-聚集地点
-
-oboe
-双簧管
-
-flute
-长笛
-
-concert
-音乐会
-
-stall
-货摊
-
-admission is free
-免费入场
-
-babysitter
-临时照顾幼儿者
-
-refurbishment
-翻新
-
-continent
-大陆
-
-ordinary
-普通的
-
-digging garden
-挖掘花园
-
-porcelain
-瓷器
-
-basement
-地下室
-
-corridor
-走廊
-
-cookery
-烹饪
-
-calorie
-卡路里
-
-ingredient
-配料
-
-bone
-骨头
-
-reputation
-口碑
-
-vegetarian dishes
-素食
-
-chopping
-（用刀）切
-
-buzzing
-嘈杂声
-
-vibrant area
-有活力的地区
-
-ceramic
-陶瓷
-
-break the bank
-倾家荡产
-
-outfit
-装束
-
-fiber
-纤维
-
-garment
-衣服
-
-gala
-盛会
-
-flat rate
-统一费率
-
-contemporary
-当代的
-
-excursion
-短途旅行
-
-cruise
-巡航；漫游
-
-trek
-艰苦跋涉
-
-scenery
-风景
-
-helmet
-头盔
-
-what sort of prices...
-...价格怎样
-
-adult fare
-成人票价
-
-liaised with
-联络对象
-
-rehearsal
-彩排
-
-premiere
-（电影）首次公演
-
-commissioned
-现役的
-
-revival
-复兴
-
-arouse
-唤醒；激发
-
-dignitary
-权贵
-
-premier
-最早的
-
-aerobic
-有氧（运动）
-
-glide gently
-慢速滑行
-
-dog-sled
-狗拉雪橇
-
-lap
-一圈
+mileage ticket
+里程票
 
 expedition
 探险
 
-carpeted in...
-长满...
+trek
+跋涉
 
-ascent
-上坡
+tribe
+部落
 
-summit
-顶点
+local tribe
+本地部落
 
-hut
-小屋
+pal
+伙伴
 
-snowmobile
-雪地摩托
+companion
+同伴
 
-beacon
-灯塔
+pal group relationship
+同伴群体关系
 
-pine
-松树
+temple
+庙宇
 
-tricky
-棘手的
+ancient temple
+古庙
 
-gentle river
-缓慢流动的河流
+bulletin board
+布告牌
 
-scenery
+check in
+登记入住, 办理登机
+
+connecting flight
+转机
+
+express train
+特快列车
+
+express way
+高速公路
+
+host family
+接待家庭
+
+honeymoon suite
+蜜月套房
+
+respect the local environment
+尊重当地环境
+
+landscape
 风景
 
-excursion
-远足；短途旅行
+courier
+导游
 
 holiday resort
 度假胜地
+
+botanical garden
+植物园
+
+rucksack
+背包
+
+culminate
+达到顶点；告终
+
+disoriented
+使迷失方向
+
+on foot
+步行
+
+pedestrian
+步行者
+
+motel
+汽车旅馆
+
+lookout point
+观景台
+
+nonstop flight
+直达航班
+
+hitchhike
+搭便车
+
+reach one's destination
+到达目的地
+
+sky dome
+穹顶
+
+taxi stand
+出租车站
+
+tourist brochures
+游客手册
+
+VIP class
+头等舱

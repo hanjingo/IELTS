@@ -1,33 +1,41 @@
-insurer
-保险公司；承保人
-
-go ahead with
-续保；继续
-
-take out insurance
-投保
-
 make a claim
 索赔
-
-point of origin
-起点
-
-reference number
-参考编号
-
-take down a few details
-记录细节
-
-cover
-覆盖（保险范围）
-
-crack
-碎裂
 
 claim money
 索赔
 
-assistant manager
-副经理
+date of expiry
+期限
 
+data slip
+期限
+
+go ahead with
+续保；投保; 继续
+
+take out insurance
+投保
+
+pay for loss
+赔偿损失
+
+insurer
+保险公司；承保人
+
+life insurance
+人寿保险
+
+property insurance
+财产保险
+
+cover
+覆盖（保险范围）
+
+mature
+(保单）到期的
+
+pension
+养老金
+
+syndicate
+财团

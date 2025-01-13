@@ -1,23 +1,59 @@
-renew
-续借
+delivery desk
+借书台
+
+circulation desk
+借书处
+
+admission card
+借书证
+
+call slip
+借书证
+
+out circulation
+已经借出
+
+out of loan
+已经借出
 
 book
 预订
 
+book in advance
+预定
+
 reserve
 预定
+
+book reservation
+预订书
+
+photocopy machine
+复印机
+
+photocopier
+复印机
+
+closed reserve
+非外借图书处
+
+return area
+还书处
+
+overdue and payafine
+逾期并支付罚款
+
+recall library books
+通知读者归还书籍
+
+renew
+续借
 
 open shelf
 开架
 
 information desk
 服务台
-
-delivery desk
-借书台
-
-return area
-还书处
 
 student union card
 学生卡
@@ -28,15 +64,6 @@ students locker
 scanner
 扫描仪
 
-photocopy machine
-复印机
-
-photocopier
-复印机
-
-hired out
-被录用
-
 stuff
 素材；填充物
 
@@ -45,3 +72,15 @@ wallchart
 
 greeting card
 贺卡
+
+reference stacks
+书库
+
+reference number
+参考编号
+
+overhead projector
+投影仪(=OHP)
+
+slides
+幻灯片

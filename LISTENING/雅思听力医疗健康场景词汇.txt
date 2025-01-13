@@ -1,62 +1,167 @@
-insurance
-保险
+pill
+药片
 
-therapy
-治疗方法
+tablet
+药片
 
-diabetes
-糖尿病
+pellet
+药丸; 小球
 
-high blood pressure
-高血压
+chin
+下巴
 
-patient
-病人
+jaw
+下巴
 
-surgery
-手术
+hospital dispensary
+医院药房
 
 pharmacy
 药房
 
+chemist
+药店
+
 general practitioner
 全科医生
+
+physician
+内科医生
+
+surgeon
+外科医生
 
 practice
 执业医生
 
-eye drop
-眼药水
+oculist
+眼科医生
+
+dentist
+牙医
+
+court physician
+法医
 
 clinic
 诊所
 
-tablet
-药丸
-
 capsules
 胶囊
 
-prescription
-药方
+eye drop
+眼药水
+
+syrup
+糖浆类药品
+
+antibiotic
+抗生素
+
+cough mixture
+止咳药
+
+pain killer
+止痛药
+
+sleeping pills
+安眠药
+
+patient
+病人
 
 epidemic
 流行病
 
+flu
+流感
+
+infection
+传染病
+
+diabetes
+糖尿病
+
+heart attack
+心脏病
+
+heart disease
+心脏病
+
+high blood pressure
+高血压
+
+allergy
+过敏
+
+allergic reaction
+过敏反应
+
+food allergy
+食物过敏
+
+tropical diseases
+热带病
+
+asthma
+哮喘
+
 fever
 发热
 
-appointment
-预约
+decayed teeth
+蛀牙
 
-reputation
-名气
+schizophrenia
+精神分裂症
 
-nutritional
-营养的
+autism
+自闭症
+
+sleeping sickness
+昏睡症
+
+sore throat
+喉咙痛
+
+stiff neck
+脖子发僵
+
+stuffed nose
+鼻塞
+
+therapy
+治疗方法
+
+surgery
+手术
+
+take blood pressure
+量血压
+
+take one's temperature
+量体温
+
+feel one's pulse
+测脉搏
+
+fitness test
+体能测试
+
+optic examination
+视力检查
+
+quarantine
+检疫
 
 therapy
 治疗
+
+prescription
+药方
+
+give a prescription
+开药方
 
 homeopathy
 顺势疗法
@@ -64,26 +169,53 @@ homeopathy
 acupuncture
 针灸
 
+physical therapy
+物理疗法
+
+precaution
+预防措施
+
+recreation therapy
+娱乐疗法
+
+olfactory
+嗅觉
+
+auditory
+听觉
+
+acoustic
+听觉的
+
+neurological
+神经
+
+good eyesight
+视力好
+
+bad eyesight
+视力不好
+
+life span
+寿命
+
+life expectancy
+预期寿命
+
+general health
+总体健康
+
+nutritional
+营养的
+
 fitness
 健康
-
-asthma
-哮喘
-
-heart disease
-心脏病
 
 slimmer
 减肥者
 
-fitness
-健康
-
 solitary
 孤单
-
-fanatic
-极端分子
 
 instructor
 教练
@@ -91,6 +223,95 @@ instructor
 cholesterol
 胆固醇
 
-dentist
-牙医
+corpse
+尸体
 
+elbow
+肘部
+
+germ
+细菌
+
+insomnia
+失眠
+
+moustache
+胡子
+
+ointment
+软膏
+
+overdraft
+透支
+
+precaution
+预防措施
+
+prevention
+阻止
+
+waist
+腰部
+
+wound
+伤口
+
+psychiatric
+精神病学的
+
+strained
+紧张的
+
+contact lens
+隐形眼镜
+
+coping with stress
+缓解压力
+
+first-aid kit
+急救箱
+
+have strong hearts and lungs
+心肺强壮
+
+no allergy
+无过敏
+
+sedentary lifestyle
+久坐的生活方式
+
+sick note
+病假条
+
+side effects
+副作用
+
+sensible exercise
+合理的锻炼
+
+wheelchair
+轮椅
+
+booklet
+小册子
+
+vet
+兽医
+
+stung
+蛰
+
+muscle tone
+肌张力
+
+be infested with...
+感染
+
+mouthpiece
+喉舌
+
+ingest
+获取；吞下
+
+excrete
+排泄；分泌

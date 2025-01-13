@@ -1,0 +1,47 @@
+Q: Why did you choose to study that subject?
+
+A: I chose engineer as a subject because it gives me an excellent foundation to enter my desired career upon completion of my studies. It is important for me to take the same career path as my aunt, as she has had an incredibly successful one, and I would like to emulate that.
+
+Q: Is it interesting?
+
+A: Yes, it brings lots of fun. I get quite some time to personally interact with my colleagues, enabling me to go into great depth while coding programs that I find particularly interesting. In addition, by fixing bugs in the work, I have attracted thousands of fans. I really love it.
+
+Q: What was your favorite subject?
+
+A: My favorite subject was computer science as the teacher was so funny and even tried to teach in English to facilitate understanding when he noticed pupils did not understand the concept.
+
+Q: Which subjects do you find challenging?
+
+A: I find Physics quite challenging, primarily due to its complex concepts and theories that require a strong grasp of both mathematics and abstract reasoning. However, overcoming these challenges is incredibly rewarding.
+
+Q: Are you looking forward to working?
+
+A: No, I currently work as a software engineer for a big company.
+
+Q: What work do you do?
+
+A: I currently work as a software engineer at a large company that sells medicine. In particular, I develop software applications for the digital control system.
+
+Q: Why did you choose to do this type of work?
+
+A: I choose this work to follow my heart. When I was young, I liked playing computer games, and always won the game. So, I think I will make great progress in software development with my talent.
+
+Q: Do you like your job?
+
+A: Of course. My job allows me to control a variety of machines by typing commands. I find the work itself to be extremely fulfilling, and it gives me a great reward for my hard work.
+
+Q: Do you currently have a good work environment?
+
+A: Yes, I'm fortunate to have a very supportive work environment. It is collaborative and encourages open communication, which I find essential for personal and professional growth. The management also prioritizes employee well-being, which enhances productivity and overall job satisfaction.
+
+Q: What do you think could be improved at your workplace?
+
+A: One area for improvement could be enhancing the flexibility of work hours and remote work options. Increasing flexibility could help accommodate the diverse needs of all employees, leading to improved work-life balance.
+
+Q: Is there a place in your company that makes you feel relaxed?
+
+A: Yes, we have a quiet lounge area that is filled with plants and comfortable seating. It's a great spot to take a break and recharge, away from the usual hustle and bustle of the office environment.
+
+Q: What are the advantages of a company having a relaxation room?
+
+A: A relaxation room in a company can significantly boost employee morale and productivity. it provides a space for employees to unwind and destress, which is crucial for maintaining mental health. Additionally, such spaces can enhance creativity, as taking breaks in a relaxed setting allows employees to return to their tasks with a fresh perspective and renewed energy.

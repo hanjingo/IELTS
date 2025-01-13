@@ -1,287 +1,83 @@
-january
-一月(Jan)
+appropriate
+适当的
 
-february
-二月(Feb)
+adequate
+适当的
 
-march
-三月(Mar)
+moderate
+适当的
 
-april
-四月(Apr)
+intermediate
+中间的
 
-may
-五月(May)
+central
+中央的
 
-june
-六月(Jun)
+household
+家庭
 
-july
-七月(Jul)
+domestic
+家庭的
 
-august
-八月(Aug)
+compost
+堆肥
 
-september
-九月(Sep)
+manure
+肥料
 
-october
-十月(Oct)
+fertility
+肥力
 
-november
-十一月(Nov)
+odd
+古怪的
 
-december
-十二月(Dec)
+bizarre
+奇怪的
 
-october 1st
-十月一日
+weird
+怪异的
 
-Oct, 1th
-十月一日
+kelp
+海藻
 
-monday
-星期一
+kelp forest
+海草林
 
-tuesday
-星期二
+satellite
+人造卫星
 
-wednesday
-星期三
+satellite TV station
+卫星电视台
 
-thursday
-星期四
+appliance
+装置
 
-friday
-星期五
+fixture
+(固定)装置
 
-saturday
-星期六
+fancy
+设想；幻想
 
-sunday
-星期日
+fantasy
+幻想
 
-six thirty one
-6点31分
+remark
+备注
 
-a quarter to nine
-8点45分
+memo
+备忘录
 
-half past six
-6点30分
+archive
+存档
 
-one
-一
+diary
+日志
 
-two
-二
+to some degree
+从某种程度上来说
 
-three
-三
-
-four
-四
-
-five
-五
-
-six
-六
-
-seven
-七
-
-eight
-八
-
-nine
-九
-
-ten
-十
-
-eleven
-十一
-
-twelve
-十二
-
-thirteen
-十三
-
-fourteen
-十四
-
-fifteen
-十五
-
-sixteen
-十六
-
-seventeen
-十七
-
-eighteen
-十八
-
-nineteen
-十九
-
-twenty
-二十
-
-twenty-one
-二十一
-
-one hundred
-一百
-
-dozen
-一打(12)
-
-hundred
-百
-
-thousand
-千
-
-million
-百万
-
-billion
-十亿
-
-trillion
-万亿
-
-first
-第一(1st)
-
-second
-第二(2nd)
-
-third
-第三(3rd)
-
-fourth
-第四(4th)
-
-fifth
-第五(5th)
-
-sixth
-第六(6th)
-
-seventh
-第七(7th)
-
-eighth
-第八(8th)
-
-ninth
-第九(9th)
-
-tenth
-第十(10th)
-
-eleventh
-第十一 (11th)
-
-twelfth
-第十二 (12th)
-
-thirteenth
-第十三 (13th)
-
-fourteenth
-第十四 (14th)
-
-fifteenth
-第十五 (15th)
-
-sixteenth
-第十六 (16th)
-
-seventeenth
-第十七 (17th)
-
-eighteenth
-第十八 (18th)
-
-nineteenth
-第十九 (19th)
-
-twentieth
-第二十 (20th)
-
-twenty-first
-第二十一 (21th)
-
-one hundredth
-第一百 (100th)
-
-double
-两倍
-
-triple
-三倍
-
-quadruple
-四倍
-
-one-half
-二分之一
-
-one-third
-三分之一
-
-one-fourths
-四分之一
-
-one percent
-百分之一
-
-one-thousandth
-千分之一
-
-one ten-thousandth
-万分之一
-
-one hundred percent
-百分之百
-
-point five percent
-百分之零点五
-
-point four six percent
-百分之零点四六
-
-dwindle
-缩小
-
-decrease
-减少
-
-decline
-下降
-
-descend
-下降
-
-diminish
-减少
-
-reduce
-减低
-
-increase
-增加
-
-growth
-增长
-
-expand
-扩充
+to some extent
+在某种程度上
 
 influx
 流入
@@ -295,29 +91,14 @@ disturb
 incorporate
 把…合并
 
-timetable
-时间表
-
 cramped
 狭窄的
-
-workbook
-作业本
-
-laminate flooring
-复合地板
-
-stalwart
-结实的
 
 tremendous
 极大的
 
 virtually
 实际上
-
-legroom
-踏脚处
 
 puppet
 木偶
@@ -328,24 +109,2021 @@ visibility
 fume
 尾气
 
-lorry
-卡车
-
 pedestrian
 行人
 
 It's not ideal
 这并不是最理想的方式
 
-suburb
-郊区
-
-headphone
-(头戴式)耳机
-
-earphone
-(耳塞式)耳机
-
 thank goodness
 谢天谢地
 
+particularly
+特别
+
+laminate
+把…切[分]成薄片
+
+mane
+鬃毛
+
+nap
+打盹
+
+nought
+零
+
+nut
+坚果
+
+parcel
+包裹
+
+radar
+雷达
+
+respondent
+被告
+
+sewage
+污水
+
+sewer
+下水道
+
+shoplifter
+商店窃贼
+
+tile
+瓦片
+
+timber
+木材
+
+utensil
+器具
+
+youth
+青年人
+
+blond
+(皮肤)白皙的
+
+casual
+不在意的
+
+corrupt
+腐败的
+
+curly
+卷毛的
+
+famed
+著名的
+
+inadequate
+不适当的
+
+intact
+完好无缺的
+
+intensive
+密集的
+
+irritable
+易怒的
+
+miserable
+悲惨的
+
+noble
+高贵的
+
+optic
+光学的
+
+promising
+有前途的
+
+scarce
+不足的
+
+spare
+多余的
+
+unanimous
+一致同意的
+
+a series of
+一系列
+
+a sharp turn
+急转弯
+
+ahead of time
+提早
+
+arm badge
+臂章
+
+assume the responsibility
+负责任
+
+area for improvement
+不足之处
+
+be out of temper
+生气
+
+brother in law
+姐/妹夫
+
+cannot meet the deadline
+不能按时完成
+
+cater to
+迎合
+
+clock watch
+钟表
+
+timetable
+时间表
+
+closed circuit TV
+闭路电视(CCTV)
+
+collection tank
+收集罐
+
+college close-up
+大学特写
+
+currency form
+货币申报单
+
+customs service
+海关业务
+
+dateline
+国际日期变更线
+
+desk lamp
+台灯
+
+distant deadline
+遥远的截止日期
+
+domestic violence
+家庭暴力
+
+double lock
+反锁
+
+double grill
+双层烤架
+
+disabled access
+残疾人通道
+
+dropout rate
+辍学率
+
+drop-off site
+垃圾投放点
+
+electronic director
+电子监控
+
+engrave
+雕刻
+
+extension number
+分机号码
+
+fine arts
+美术
+
+fire drill
+消防训练
+
+fire management
+消防管理
+
+generation of electricity
+发电
+
+gas station
+加油站
+
+give confirmation
+给予确认
+
+good steering
+良好的操控
+
+grain pattern
+纹理
+
+grain pattern of timber
+木材纹理
+
+green waste
+可回收垃圾
+
+half term
+学期中间的假期
+
+hard-hoofed animal
+硬蹄动物
+
+hand pump
+手提式灭火器
+
+hands broken
+指针坏了
+
+have access to
+有权做...
+
+herd of cattle
+牲畜群
+
+in visible view
+在视野中
+
+instant coffee
+速溶咖啡
+
+interpersonal skill
+人际交往能力
+
+internet cafe
+网吧
+
+lack confidence
+缺乏信心
+
+lose temper
+发脾气
+
+loudspeaker
+扬声器
+
+main course
+主菜
+
+man-made dam
+人造大坝
+
+marketing management
+销售管理
+
+mass media
+大众传媒
+
+mental ability
+精神能力
+
+microwave oven
+微波炉
+
+midmorning snack
+上午加餐 
+
+mill the grain on the ground
+在地上碾磨谷物
+
+mineral water
+矿泉水
+
+mother-in-law
+婆婆,岳母
+
+name badge
+铭牌
+
+not for circulation
+不得流通
+
+number of exposure
+曝光次数
+
+self-sufficient
+自足的
+
+off campus
+校外
+
+on campus
+在校内
+
+overfill
+装满
+
+olive oil
+橄榄油
+
+out of temper
+发脾气
+
+palm tree
+棕榈树
+
+paper jam
+卡纸
+
+permit required
+许可证要求
+
+precious stone
+宝石
+
+previous data
+原数据
+
+prize giving
+(学校的)颁奖
+
+question handling
+问题处理
+
+railway rail
+铁轨
+
+registered mail
+挂号信
+
+related to
+与…有关
+
+remain steady
+保持稳定
+
+resistance from parents
+父母的反对
+
+romance story
+浪漫故事
+
+running tunnel
+连续直行的隧道
+
+rural area
+农村地区
+
+rush hour
+高峰时间
+
+safety office
+保卫处
+
+sandglass clock
+沙漏
+
+science fiction
+科幻
+
+seat belt
+座椅安全带
+
+self-defense
+正当防卫
+
+silver cloth
+银布
+
+spare time
+业余时间
+
+spare parts
+零配件
+
+space shuttle
+航天飞机
+
+special mail
+速递邮件
+
+spinous plants
+带刺的植物
+
+spiral notebook
+活页本
+
+still water
+纯净水
+
+strong scent
+强烈的气味
+
+studio apartment
+筒子楼
+
+stuffed toys
+毛绒玩具
+
+survey conducted
+已经调查
+
+tape recorder
+录音机
+
+the milky way
+银河
+
+TV series
+电视连续剧
+
+vary one's diet
+改变饮食
+
+videotape editor
+录像编辑
+
+visual aids
+视觉辅助
+
+wind tunnels
+风洞
+
+wretched boat
+废弃的船
+
+abbreviation
+缩写
+
+affair
+事情
+
+annex
+附属建筑
+
+depression
+沮丧
+
+associate
+伙伴
+
+attentive
+注意的
+
+cannibal
+食肉者
+
+newsletters
+时事通讯
+
+irritation
+激怒
+
+interviewee
+被采访人
+
+narrator
+解说人
+
+stiff
+硬的
+
+concession
+让步
+
+supplementary
+增补的
+
+terrestrial
+疆土的
+
+cassette
+盒式磁带
+
+insect
+昆虫
+
+insects haunting
+虫灾
+
+crack
+碎裂
+
+point of origin
+起点
+
+liter
+公升
+
+incineration
+焚烧
+
+crystal
+晶体
+
+fax
+传真
+
+hoove
+蹄子
+
+fortnight
+两星期
+
+chick 
+小鸡
+
+feather
+羽毛
+
+forestry
+林业
+
+fur
+毛皮
+
+eligible
+合格的
+
+neglect
+忽视
+
+overrated
+高估
+
+incentive
+刺激
+
+individuality
+个性
+
+tricky
+棘手的
+
+strain
+拉紧；劳累
+
+interpretation
+翻译；解释
+
+engrave
+雕刻
+
+drawn
+憔悴的
+
+unintentional
+非故意的
+
+fragile
+易碎的
+
+intact
+完好无缺的
+
+over to you
+交给你
+
+have a part to play
+能在...中发挥作用
+
+eradicate
+根除
+
+infest
+大批出没于
+
+mite
+螨虫
+
+microscopic creature
+微生物
+
+bush
+灌木
+
+devastate
+摧毁
+
+moisten
+变得潮湿
+
+scrunch up
+挤扁
+
+insight
+洞察力
+
+inspire
+激励
+
+rationale
+基本原理
+
+counteract the effects
+消除影响
+
+anticipate
+预料
+
+reassurance
+保证
+
+volcanoes
+火山
+
+sign up for ... lesson
+报名参加课程
+
+confident
+自信的
+
+keep eye contact with...
+与...保持眼神交流
+
+frankly
+真诚地
+
+that's a pity
+那真是太可惜了
+
+frustrate
+令人沮丧
+
+coping well with
+擅长
+
+sufficient
+足够的
+
+consult
+商议
+
+coping well with
+应对良好
+
+weak at...
+弱点在...
+
+assertive
+断言
+
+recommendation
+建议
+
+be familiarity with...
+熟悉...
+
+underrepresent
+代表性不足
+
+introductory
+引导的
+
+field trip
+实地考察
+
+procedure
+步骤
+
+slope
+倾斜
+
+piece of string
+一根绳子
+
+rock pools
+岩石池
+
+potassium
+钾
+
+chromate
+铬酸盐
+
+amendment
+修改
+
+splash zone
+飞溅区
+
+smashed
+喝醉酒的
+
+cave
+洞穴
+
+grass
+草
+
+wool hat
+羊毛帽
+
+scarf
+围巾
+
+interpretation
+解释
+
+cello
+大提琴
+
+granted
+的确
+
+keen to
+热衷于
+
+emerge
+暴露
+
+be worn on
+佩戴
+
+trivial
+琐碎
+
+esteem
+尊重
+
+vulnerable
+脆弱的
+
+intensive
+加强的
+
+that's as far as they go
+这就是他们所走的
+
+germination
+萌芽
+
+early stage of...
+...的发展早期
+
+procedure
+程序
+
+dimension
+尺寸规格
+
+plant pot
+培养盆
+
+nanotechnology
+纳米科技
+
+thought of an angle
+从一个角度来想
+
+brainstorm ideal
+头脑风暴
+
+obsolete
+老式的
+
+personal preference
+个人喜好
+
+make in-depth study
+深入学习
+
+saga
+传说
+
+genre
+流派
+
+mythology
+神话
+
+ought
+应该
+
+sticking to
+坚持
+
+warden
+看守人
+
+faithful
+如实的
+
+film adaptation
+电影改编
+
+loose
+松散
+
+throne
+王座
+
+bizarre
+奇异的
+
+interpretation
+诠释
+
+stylistic
+风格上的
+
+fascination
+最爱的
+
+chronological
+按时间排序
+
+abruptly
+突然地
+
+thought out
+周到
+
+commitment
+承诺
+
+setback
+挫折
+
+beetroot
+甜菜根
+
+pile
+堆
+
+tartrazine
+酒石黄
+
+rinse
+冲洗
+
+turmeric
+姜黄
+
+curry
+咖喱
+
+shade
+阴影
+
+shellfish
+贝类
+
+purple
+紫色
+
+logwood
+洋苏木
+
+ingest
+食用
+
+cochineal
+胭脂虫红
+
+peanuts
+花生
+
+ready meal
+熟食
+
+eye opener
+大开眼界
+
+crisps
+薯片
+
+consultation
+磋商
+
+dunno
+（口语）不知道
+
+hint
+暗示
+
+junior
+(美国中学或大学的)三年级学生
+
+key approach
+主要方式
+
+listening tapescript
+听力原文
+
+textbook
+教科书
+
+reputation
+名气
+
+prey ashore
+猎物上岸
+
+stranding
+搁浅
+
+tide
+潮汐
+
+infestation
+出没
+
+humpback
+座头鲸
+
+tuna
+金枪鱼
+
+saxitoxin
+贝类毒素
+
+majority
+多数
+
+pinpoint
+精确的
+
+coincide
+一致
+
+coordinate
+坐标
+
+co-founder
+共同创始人
+
+locomotive
+火车头
+
+cutting through the rock
+开凿岩石
+
+large squadron of
+大型中队
+
+tremendous
+极大的
+
+geology
+地质学
+
+level the mound
+平整土墩
+
+stone quarry
+采石场
+
+photovoltaic tile
+光伏瓷砖
+
+foam
+泡沫
+
+increase insulation
+增加绝缘性; 增强隔热
+
+national grid
+国家电网
+
+concrete
+混凝土
+
+ordinary
+普通的
+
+interim
+临时的
+
+sparrow-hawk
+雀鹰
+
+prey
+捕食
+
+endorse
+支持
+
+supportive atmosphere
+支持性的氛围
+
+ticking off
+标出
+
+frog
+蛙
+
+proliferate
+繁殖
+
+hedgehog
+刺猬
+
+song thrush
+画眉
+
+resurgence
+复苏
+
+nesting
+嵌套
+
+biodiversity
+生物多样性
+
+predator
+捕食者
+
+oxygen
+氧气
+
+plankton
+浮游生物
+
+thick
+厚的
+
+octopus
+章鱼
+
+volcano
+火山
+
+leatherback
+棱皮龟
+
+caught
+捕捉
+
+domestic
+国内的
+
+metaphor
+隐喻
+
+canal
+运河
+
+run-down location
+破败位置
+
+suspense
+悬念
+
+impression
+印记
+
+intrigued
+好奇的
+
+rubber
+橡胶
+
+vibration
+震动
+
+amplify
+放大
+
+orchestra
+管弦乐队
+
+curtain
+窗帘
+
+enthusiastic
+满腔热情的
+
+in-spite
+尽管
+
+soil
+土壤
+
+topsoil
+表土(层)
+
+plowing
+耕作
+
+erosion
+腐蚀
+
+inadequate
+不充足地
+
+sugar
+糖
+
+fungi
+真菌
+
+drain
+排水
+
+domesticate
+驯化
+
+vegetation
+草木
+
+pump into
+泵入
+
+conducting
+组织，实施
+
+cornstalk
+谷类的秆
+
+lawn trimming
+草坪修剪
+
+upheaval
+变动
+
+crow
+乌鸦
+
+pigeon
+鸽子
+
+perch on...
+栖息于...
+
+cliff
+悬崖
+
+specimen
+样本
+
+gopher
+土拨鼠
+
+cognitive
+认知
+
+anatomy
+结构
+
+bold
+大胆
+
+endocrine system
+内分泌系统
+
+hormone
+荷尔蒙
+
+corticosterone
+皮质酮
+
+squirrel
+松鼠
+
+tail
+尾巴
+
+prevalent
+普遍
+
+permanent
+持久
+
+flour
+面粉
+
+granted
+的确
+
+excellence
+长处；美德
+
+backfire
+事与愿违；回火
+
+descended into
+下降到
+
+aptitude
+天赋
+
+industriousness
+勤劳的
+
+hamster
+仓鼠
+
+attention-grab
+吸引注意力
+
+derive
+源自
+
+novel
+小说
+
+appalling
+骇人听闻的
+
+victim
+牺牲品
+
+aggressive
+好斗的
+
+incompatible
+不协调的
+
+optimism
+乐观
+
+intolerant
+无法忍受的
+
+pessimistic
+悲观的
+
+spiral
+螺旋
+
+tackle the situation
+应对这种情况
+
+mediator
+调解人
+
+mercury
+水银
+
+substance
+物质
+
+thermometer
+温度计
+
+subtle
+微妙的；敏锐的
+
+contaminate with
+污染
+
+implication
+牵连；暗示
+
+presumably
+据推测；大概
+
+soundscape
+音响范围
+
+decibel
+分贝
+
+annoying
+讨厌的
+
+perception
+感知；认知
+
+city-dweller
+城里人
+
+interdisciplinary
+各学科的
+
+clack
+噼啪声
+
+hiss
+嘘声
+
+aesthetic
+审美的
+
+lay hands on
+得到；找到
+
+episodic memory
+情景记忆
+
+mentally
+精神上
+
+factual
+事实的
+
+consolidation
+巩固
+
+retrieval
+提取
+
+indefinitely
+无限期地
+
+further
+更远的
+
+profound
+深远的
+
+intimate
+私密的
+
+reptile
+爬行类
+
+crocodile
+鳄鱼
+
+snake
+蛇
+
+lizard
+蜥蜴
+
+beetle
+甲壳虫
+
+snail
+蜗牛
+
+cassowary
+石火鸡
+
+monogamous
+一夫一妻的
+
+hatch
+孵化
+
+bush
+灌木丛
+
+destruction
+毁掉
+
+skyrocket
+激增
+
+contaminant
+污染物
+
+encyclopedia
+百科全书
+
+irrigation
+灌溉
+
+koala
+树袋熊
+
+extinct species
+已灭绝的物种
+
+field system
+工地系统
+
+hot-house effect
+温室效应
+
+human race
+人类
+
+internal clock
+生物钟
+
+slide presentation
+幻灯片演示
+
+result from
+起因于
+
+result in
+导致
+
+rice cultivation
+水稻栽培
+
+sea watch
+海洋监测
+
+heroics
+装腔作势的演说或行为
+
+permanent
+永久的
+
+national holiday
+公共假期
+
+answer the phone
+接电话
+
+vacant
+空缺的
+
+advert
+广告
+
+hostel food
+旅馆食物
+
+what qualities you're looking for? 
+你要求什么技能
+
+be devoted to...
+致力于...
+
+backstage tour
+后台导览
+
+amateur
+业余的
+
+temporary
+临时的
+
+fortnight
+两星期
+
+overwhelmingly
+反馈
+
+send text
+发短信
+
+dismissive
+不屑一顾
+
+groceries
+日常杂货
+
+get shouted
+被吼
+
+move...up
+运转
+
+get it well out of the way
+处理干净
+
+bracelets
+手镯
+
+safety hazard
+安全隐患
+
+get a break
+休息一下
+
+lifting and carrying
+举起和搬运
+
+smash
+打碎
+
+perishables
+易腐蚀物
+
+thrill
+激动
+
+draw
+画
+
+recipe
+食谱
+
+ingredient
+配料
+
+stunning
+震耳欲聋
+
+fitness
+健康；适当
+
+consultation
+咨询；磋商
+
+draw up programme
+制定方案
+
+casual
+随意
+
+jeans
+牛仔裤
+
+jargon
+行话
+
+temper
+脾气
+
+business faculty
+商务系
+
+business trip
+出差
+
+coffee break
+咖啡时间
+
+quality of personel
+人员素质
+
+criteria
+标准
+
+interior
+内部
+
+bypass
+绕过
+
+adjoining land
+毗邻土地
+
+demolition
+毁坏
+
+divorce
+离婚
+
+ethic 
+道德规范
+
+heroine
+女英雄
+
+journal
+日报
+
+refuge
+避难所
+
+fit in
+结束
+
+impressive
+给人印象深刻的
+
+disabled
+有缺陷的
+
+nominate
+提名
+
+novices
+新手
+
+up to standard
+达标
+
+refreshment
+恢复（精力）
+
+stuffy
+(房间等)不通气的；沉闷的
+
+airy
+通风的
+
+shallower
+浅的；弱的
+
+entail
+需要
+
+foothill
+山麓
+
+acclimatize
+适应（水土）
+
+gorgeous
+非常漂亮的
+
+lag
+滞后
+
+mansion
+公馆
+
+tropical
+热带的
+
+idyllic
+田园诗般的
+
+leisure
+休闲
+
+minuscule
+微乎其微的
+
+pillow
+枕头
+
+grazing
+牧场
+
+crop
+作物
+
+goat
+山羊
+
+poultry
+家禽
+
+spectacular
+壮观的
+
+geese
+鹅
+
+blossom
+开花
+
+seasonal calendar
+季节历
+
+present time
+现在
+
+orchard
+果园
+
+spotlight
+聚光灯
+
+venues
+聚会地点
+
+cater
+提供饮食
+
+willow tree
+柳树
+
+dye
+染料
+
+hedge
+树篱
+
+bay
+海湾
+
+don't have to be too energetic
+不必太过精力充沛
+
+terrace
+阳台
+
+within budget
+在预算范围内
+
+pasta
+面团
+
+pizza
+比萨饼
+
+open-air museum
+露天博物馆
+
+reeds
+芦苇
+
+the ground is very uneven
+地面非常不平坦
+
+sandal
+凉鞋
+
+lamb
+羔
+
+scarecrow
+稻草人
+
+maze
+迷宫
+
+bend
+转弯
+
+picnics spot
+野餐点
+
+oboe
+双簧管
+
+flute
+长笛
+
+stall
+货摊
+
+continent
+大陆
+
+digging garden
+挖掘花园
+
+porcelain
+瓷器
+
+basement
+地下室
+
+corridor
+走廊
+
+cookery
+烹饪
+
+calorie
+卡路里
+
+bone
+骨头
+
+reputation
+口碑
+
+chopping
+（用刀）切
+
+buzzing
+嘈杂声
+
+vibrant area
+有活力的地区
+
+fiber
+纤维
+
+contemporary
+当代的
+
+cruise
+巡航；漫游
+
+trek
+艰苦跋涉
+
+scenery
+风景
+
+helmet
+头盔
+
+liaised with
+联络对象
+
+premiere
+（电影）首次公演
+
+commissioned
+现役的
+
+revival
+复兴
+
+arouse
+唤醒；激发
+
+dignitary
+权贵
+
+premier
+最早的
+
+aerobic
+有氧（运动）
+
+glide gently
+慢速滑行
+
+dog-sled
+狗拉雪橇
+
+lap
+一圈
+
+carpeted in...
+长满...
+
+ascent
+上坡
+
+summit
+顶点
+
+snowmobile
+雪地摩托
+
+beacon
+灯塔
+
+pine
+松树
+
+tricky
+棘手的
+
+gentle river
+缓慢流动的河流
+
+isle
+岛
+
+ferry
+渡口
+
+promenade
+人行道
+
+leisurely
+从容的
+
+headland
+向水中突出的陆地
+
+coach
+训练
+
+medieval
+中世纪的
+
+creek
+小溪
+
+kiosk
+售货亭
+
+scent
+气味
+
+trailer
+拖车
+
+magnificent
+宏伟的
+
+hippo
+河马
+
+otter
+水獭
+
+kangaroo
+袋鼠
+
+red kangaroo
+红袋鼠
+
+geography trip
+地理考察
+
+isolated spot
+偏远的地方
+
+sea otter
+海獭
+
+sea urchin
+海胆
+
+superb
+棒极了
+
+kicks off
+开始
+
+big scheme
+大计划
+
+ahead of schedule
+先于预定时间
+
+flute
+长笛
+
+quiz question
+测验问题
+
+midday
+正午
+
+majority
+多数
+
+summer pool
+夏季泳池
+
+regional
+地区的
+
+spotting birds
+观鸟
+
+binocular
+双目并用的
+
+be fence off to...
+被围起来
+
+good spot
+好地方
+
+campus
+校园
+
+pastime
+消遣
+
+tribute
+贡物
+
+mature student
+年长学生
+
+leaflet
+小册子
+
+gallop
+飞驰
+
+rival
+竞争者
+
+sensation
+感知
+
+cellist
+大提琴手
+
+violinist
+小提琴家
+
+desert
+沙漠
+
+treaty
+条约
+
+dome
+穹顶
+
+ape
+类人猿
+
+anthill
+蚁丘
+
+dominant
+主宰
+
+laterality
+偏侧化
+
+spectacular
+壮观的
+
+profile
+轮廓
+
+salinity
+盐分
+
+ozone depletion
+臭氧消耗
+
+yachtsmen
+游艇驾驶员
+
+broaden the gene pool
+拓展基因库
+
+tide
+潮水
+
+wasp
+黄蜂
+
+spacious
+广阔的
+
+giraffe
+长颈鹿
+
+flora
+植物群
+
+meshing
+建网

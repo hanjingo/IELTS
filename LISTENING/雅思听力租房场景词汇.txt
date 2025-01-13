@@ -1,8 +1,50 @@
+row house
+联排房屋
+
+terraced house
+联排房屋
+
+hut
+小屋
+
+cottage
+小屋
+
+bed sheet
+床单
+
+bed linen
+床单
+
+water-proof
+防水
+
+water-repellent
+防水
+
+refurbishment
+翻新
+
+major refurbishment
+大修
+
+redecorate
+再装修
+
+student hostel
+学生旅馆
+
+hall of residence
+学生宿舍
+
+resident student
+寄宿生
+
+deposit
+押金
+
 in advance
 提前
-
-fortnight
-两星期
 
 decoration
 装饰
@@ -19,6 +61,9 @@ study
 cloakroom
 衣帽间
 
+garden
+花园
+
 big garden
 大花园
 
@@ -30,15 +75,6 @@ full board
 
 alternative
 可供选择的
-
-grant
-补助金
-
-badminton
-羽毛球运动
-
-mature student
-年长学生
 
 main switchboard
 总开关板
@@ -61,6 +97,9 @@ half a cup full
 spare
 备用的
 
+spare socks
+备用袜子
+
 sitting room
 起居室
 
@@ -73,20 +112,11 @@ left...a...
 chest
 箱子
 
-deposit
-押金
-
-charge
-费用
-
 fridge
 冰箱
 
 caretaker
 管理员
-
-van
-货车
 
 fiddle
 调整
@@ -115,3 +145,62 @@ corridor
 estate agent
 房产中介
 
+radiator
+散热器
+
+terrestrial heat
+地热
+
+twin room
+双人房
+
+vacuum cleaner
+吸尘器
+
+hoover
+(真空)吸尘器
+
+terraced
+有露台的
+
+laminate flooring
+复合地板
+
+legroom
+踏脚处
+
+suburb
+郊区
+
+mat
+席子
+
+queen-sized bed
+皇后床(1.5*2.0m)
+
+cot
+简易床
+
+soundproof
+隔音的
+
+cutlery
+餐具
+
+kitchen table
+餐桌
+
+kitchen utensil
+厨房用具
+
+mosquito net
+蚊帐
+
+steak set
+一套刀叉
+
+fridge
+冰箱
+
+mops
+拖把

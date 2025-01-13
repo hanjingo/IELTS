@@ -1,5 +1,14 @@
-line up
-排队
+jump the queue
+插队
+
+jump the line
+插队
+
+appointment
+预约
+
+make an appointment
+预约
 
 current account
 活期存款账户
@@ -10,8 +19,50 @@ deposit account
 joint account
 联名账户
 
-leaflet
-小册子
+financial affair
+财务问题
+
+financial shortage
+财务短缺
 
 bank statement
 银行结账单
+
+maturity
+到期
+
+bank transfer
+银行转账
+
+chequebook
+支票簿
+
+corporate loan
+公司借款
+
+line up
+排队
+
+set money aside
+存钱
+
+withdraw cash
+取现金
+
+money diary
+财务日记
+
+money lender
+放款人
+
+money order
+汇票
+
+pocket money
+零用钱
+
+grant
+补助金
+
+break the bank
+倾家荡产

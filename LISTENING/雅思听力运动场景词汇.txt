@@ -1,17 +1,29 @@
-gallop
-飞驰
+casual clothes
+休闲服
 
-rival
-竞争者
+casual wear
+休闲服
 
-sensation
-感知
+leisure wear
+休闲服
 
-cellist
-大提琴手
+referee
+裁判员
 
-violinist
-小提琴家
+umpire
+裁判员
+
+stalwart
+结实的
+
+stout
+结实的
+
+fitness centre
+健身房
+
+fitness club
+健身俱乐部
 
 hockey
 曲棍球
@@ -25,8 +37,47 @@ gymnastics
 water-skiing
 滑水运动
 
+badminton
+羽毛球运动
+
 kite-surfing
 风筝冲浪
 
+white water rafting
+漂流
+
 stadium
 体育馆
+
+fellowship
+友谊
+
+olympic
+奥林匹克
+
+bowling alley
+保龄球槽
+
+fitness level
+身体状况
+
+football match
+足球比赛
+
+ice curling
+冰壶运动
+
+instructor
+教练
+
+martial art
+武术
+
+paddling pool
+戏水池
+
+suntan block
+防晒
+
+sun cream
+防晒霜

@@ -1,49 +1,95 @@
 enroll
 登记
 
-signing up for membership
-签会员
+registration
+登记
+
+agency
+机构
+
+institute
+机构
+
+institution
+机构
+
+course fee
+学费
+
+tuition fee
+学费
+
+erolment fee
+报名费
+
+surname
+姓
+
+given name
+名
+
+association
+协会
+
+student union
+学生会
 
 council
 理事会
 
-town council
-市政会
-
-hostel
-旅社
-
-courier
-导游
-
 parliament
 议会
 
-impressive
-给人印象深刻的
+town council
+市政会
 
-disabled
-有缺陷的
+admission office
+招生办
 
-nominate
-提名
+nursery
+托儿所
 
-ordinary
-普通的
-
-up to standard
-达标
+story conference
+故事会
 
 recreational membership
 娱乐级（试水级）会员
 
-paid quarterly
-按季付钱
+joint membership
+联合会员资格
 
-novices
-新手
+consultant
+顾问
 
-fit in
-结束
+membership consultant
+会籍顾问(MC)
 
+signing up for membership
+签会员
 
+poll
+投票
+
+general election
+普选
+
+postal survey
+邮寄调查
+
+sponsorship
+赞助
+
+legislation
+立法
+
+procedure
+手续
+
+sign autograph
+签名
+
+cover the cost
+承担费用
+
+open admission
+免试入学制

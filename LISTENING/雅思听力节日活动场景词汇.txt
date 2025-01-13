@@ -1,17 +1,14 @@
-superb
-棒极了
+costume party
+化装舞会
 
-kicks off
-开始
+fancy ball
+化装舞会
 
-drama
-戏剧
+foyer
+休息室
 
-tents
-帐篷
-
-fridge
-冰箱
+lounge
+休息室
 
 chilled drinks
 冰镇饮料
@@ -19,14 +16,56 @@ chilled drinks
 iced drinks
 冰镇饮料
 
-mops
-拖把
+performance
+演出
 
-big scheme
-大计划
+festival
+节日
 
-ahead of schedule
-先于预定时间
+mid-autumn festival
+中秋节
+
+carnival
+狂欢节
+
+exposition
+博览会
+
+world expo
+世界博览会
+
+feast
+宴会
+
+gala
+盛会
+
+farewell party
+欢送会
+
+ballroom
+舞会
+
+ceremony
+典礼
+
+concert
+音乐会
+
+concert hall
+音乐厅
+
+drama
+戏剧
+
+circus performance
+马戏团表演
+
+spectacular production
+壮观的演出
+
+firework display
+烟花表演
 
 symphony orchestra
 交响乐团
@@ -34,80 +73,62 @@ symphony orchestra
 theatre company
 剧团
 
-spectacular production
-壮观的演出
+dress code
+着装要求
 
-flute
-长笛
+rehearsal
+彩排
 
-quiz question
-测验问题
+dress rehearsal
+彩排
 
-midday
-正午
+garment
+衣服
 
-sign autograph
-签名
+outfit
+装束
 
-fixture
-固定装置
+fancy dress
+奇装异服
 
-fitness test
-体能测试
+party wear
+节日服装
 
-cardiac
-心脏(病)的
+graduation announcement
+毕业典礼请柬
 
-muscle tone
-肌张力
+admission
+入场费
 
-majority
-多数
+admission is free
+免费入场
 
-summer pool
-夏季泳池
+buffet
+自助餐
 
-regional
-地区的
+auditorium
+观众席
 
-spotting birds
-观鸟
+box office
+售票处
 
-habitat
-栖息地
+poster
+海报
 
-binocular
-双目并用的
+bravo
+喝彩
 
-soil
-土壤
+auditorium
+礼堂
 
-be fence off to...
-被围起来
+backstage
+舞台后
 
-lifeguard
-救生员
-
-ceremony
-典礼
-
-good spot
-好地方
-
-mayor
-市长
-
-councilor
-议员
+tents
+帐篷
 
 choir
 合唱
 
-firework display
-烟花表演
-
 ballet
 芭蕾舞
-
-shopping mall
-商场
