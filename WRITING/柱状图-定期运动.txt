@@ -2,6 +2,6 @@ The bar chart illustrates the percentage of Australian men and women in differen
 
 Overall, women were more active than men in most age groups, except for the youngest group(15~24 years). In this group, 52.8% of men engaged in regular physical activity compared to 47.7% of women.
 
-As age increased, the percentage of men doing regular physical activity generally declined, reching a low of 39.5% in the 35~44 age group, before slightly increasing in older age groups. In contrast, the percentage of active women increased with age, peaking at 53.3% in the 45~54 age group, and then slightly decreasing in older age groups.
+As age increased, the percentage of men doing regular physical activity generally declined, reaching a low of 39.5% in the 35~44 age group, before slightly increasing in older age groups. In contrast, the percentage of active women increased with age, peaking at 53.3% in the 45~54 age group, and then slightly decreasing in older age groups.
 
 In summary, while younger men were more active than their female counterparts, women tended to maintain higher levels of physical activity across most age groups as they aged.
