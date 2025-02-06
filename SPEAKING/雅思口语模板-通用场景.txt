@@ -12,7 +12,11 @@ Around my hometown, there are ...
 
 As a child, ...
 
+As far as I'm concerned, ...
+
 As I mentioned, ...
+
+As in some fields, ...
 
 As much as I hate to admit it.
 
@@ -62,6 +66,10 @@ For formal occasions, ...
 
 For now, it would be a yes.
 
+From an early age, ...
+
+From my perspective, ...
+
 From my point of view, ...
 
 From my viewpoint, ...
@@ -77,6 +85,8 @@ Given the chance, I would do sth.
 Good job.
 
 Honestly speaking, ...
+
+I am on the fence about it.
 
 I anticipate that ...
 
@@ -133,6 +143,8 @@ I guess not.
 I have always believed that the future is uncertain.
 
 I have no idea how to ...
+
+I have to say that ...
 
 I indulge in ... quite regularly.
 
@@ -258,6 +270,8 @@ It varies.
 
 It's a crying shame.
 
+It's a hard choice.
+
 It's definitely ...
 
 It's difficult to predict the future.
@@ -312,6 +326,8 @@ Overall, ...
 
 People should always be polite.
 
+Perhaps it is their age.
+
 Personally speaking.
 
 Pick it up.
@@ -338,7 +354,11 @@ That's a very interesting question.
 
 That's tough to say.
 
+The answer first comes up in my mind to this question is ...
+
 The change that we are waiting for is ...
+
+The interesting phenomenon in China is that ...
 
 The last time I was ...
 
