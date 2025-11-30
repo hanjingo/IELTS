@@ -1,10 +1,10 @@
-Q: Describe a website you often visit. You should say: what is it about? how you found out about it? how often do you visit it? and explain why you often visit it.
+Q: Describe a website you often visit. You should say: what is it about? how you found out about it? How often do you visit it? and explain why you often visit it.
 
-A: GitHub is a site that is designed for software developers to search professional source codes. There are different sections on the site for different programming languages; highly trained software developers write them.  It contains source codes, documents, and also a larger storage space for premium services to upload videos that require a payment option. I found this site through adverts placed on the social media platform I use. I usually log in to the site daily, immediately after work. This site is designed in a way that goes according to the minimalism. So it helps me to find what I want quickly. Like I previously said, I use this site to improve my knowledge and keep me up to date with the classes being taught. I also use this site to help me sit for my interview by using the documents.
+A: GitHub is a site that is designed for software developers to search professional source code. There are different sections on the site for different programming languages; highly trained software developers write them.  It contains source codes, documents, and also a larger storage space for premium services to upload videos that require a payment option. I found this site through adverts placed on the social media platform I use. I usually log in to the site daily, immediately after work. This site is designed in a way that goes according to minimalism. So it helps me to find what I want quickly. Like I previously said, I use this site to improve my knowledge and keep myself up to date with the classes being taught. I also use this site to help me sit for my interview by using the documents.
 
 Q: What are the most popular and least popular apps in your country?
 
-A: The most known app in my country is TikTok, and the least popular is WeChat.
+A: The most well-known app in my country is TikTok, and the least popular is WeChat.
 
 Q: Who in your family uses the site?
 
@@ -12,7 +12,7 @@ A: I believe in my family. We all use WeChat. It helps in communication among us
 
 Q: Will the Internet replace the teacher?
 
-A: I believe the Internet cannot replace a teacher because each individual is unique in learning, so the Internet won't be able to adapt to each uniqueness of people.
+A: I believe the Internet cannot replace a teacher because each individual is unique in learning, so the Internet won't be able to adapt to the uniqueness of people.
 
 Q: Will downloading music or movies for free cause a problem?
 
@@ -24,15 +24,15 @@ A: The difference between a television ad and the Internet is the use of data to
 
 Q: Why do people like to read the news on the Internet instead of on TV?
 
-A: Why people love to read the Internet because they can easily see other people's comments and suggestions and also input their own suggestions toward it.
+A: Why do people love to read on the Internet? They can easily see other people's comments and suggestions, and also input their own suggestions toward it.
 
 Q: What kinds of people like going to the library to read and study?
 
-A: I believe the library is important; It helps us read about our history, which is preserved in the library, and also helps us recycle the same books since it is only up for rent.
+A: I believe the library is important; It helps us read about our history, which is preserved in the library, and also helps us recycle the same books since they are only up for rent.
 
 Q: Is the library still necessary? why?
 
-A: The type of people that like going to the library are people who may not be able to afford the books or who just have reading as a hobby.
+A: The type of people who like going to the library are people who may not be able to afford the books or who just have reading as a hobby.
 
 Q: What are the differences between old people and young people when they use the Internet?
 
@@ -40,4 +40,4 @@ A: The difference between the old and young in accessing the Internet would be t
 
 Q: What kind of people don't use the internet, and what are the disadvantages that those people suffer because they don't use the internet?
 
-A: The type of people that don't use the Internet would be the individuals in the rural areas because of the less exposure and also their occupation, which includes mostly forming, they do not use the Internet. The disadvantages would be not knowing the trending issues of the country and not being able to associate with people outside their residential vicinity.
+A: The type of people that don't use the Internet would be the individuals in rural areas because of the less exposure, and also their occupation, which includes mostly farming, as they do not use the Internet. The disadvantages would be not knowing the trending issues of the country and not being able to associate with people outside their residential vicinity.

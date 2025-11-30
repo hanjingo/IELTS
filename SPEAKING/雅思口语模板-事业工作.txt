@@ -8,7 +8,7 @@ A good boss gives employees adequate control over how they do their work.
 
 A good boss shall learn to handle labor problems correctly.
 
-A good boss will try his best to reduce personal conflicts on the job.
+A good boss will try their best to reduce personal conflicts on the job.
 
 Being smart and intelligent doesn't mean that he is a good worker.
 
@@ -56,7 +56,7 @@ He is the soul of the team.
 
 He is younger than his age, but he is quite professional.
 
-My colleague Huang is much of a friend and he is ready to help me any time.
+My colleague Huang is much of a friend, and he is ready to help me any time.
 
 The members of our office get along like a family.
 
@@ -66,7 +66,7 @@ Company.
 
 I am in favor of big companies because of their sound customer service.
 
-I can't think of any more famous China companies, I'm sorry.
+I can't think of any more famous Chinese companies, I'm sorry.
 
 Global companies work on an international scale, which often means they have more resources at their disposal compared to local companies.
 
@@ -86,9 +86,9 @@ They create employment opportunities.
 
 Farm.
 
-Farming is essential, especially for people who are living in the village.
+Farming is essential, especially for people who live in the village.
 
-I was born and raised in the countryside of my hometown, there is some Farmland aside from my old house.
+I was born and raised in the countryside of my hometown, where there is some Farmland aside from my old house.
 
 I like my big farm because it is close to nature.
 
@@ -110,11 +110,11 @@ Job.
 
 Having a decent job means a lot for young people.
 
-I have studied software development for about 4 years at the university and I've also created some projects before graduating from school.
+I have studied software development for about 4 years at the university, and I've also created some projects before graduating from school.
 
 I think I'm more of a creative person, so doing things like developing software and trying to be more creative is quite easy.
 
-I think to be a good police officer you'd probably have to be fairly grounded.
+I think to be a good police officer, you'd probably have to be fairly grounded.
 
 I'm currently working as a software engineer for Daan Gene.
 
@@ -124,11 +124,11 @@ I work for a software development company.
 
 It's a lot for my brain to take in, I suppose.
 
-It gives me a lot of satisfaction by doing this job.
+It gives me a lot of satisfaction to do this job.
 
 Job-hopping is common among young people.
 
-My company focus on providing job opportunities that align with the skills and interests of young people.
+My company focuses on providing job opportunities that align with the skills and interests of young people.
 
 The answer must be a decent job.
 
@@ -168,7 +168,7 @@ Salary.
 
 I believe that doctors and teachers should be well paid because they are both needed and often give selflessly of their time.
 
-I do not giving everyone the same salary would be a successful business strategy.
+I do not think giving everyone the same salary would be a successful business strategy.
 
 If everyone were paid the same, there would be no incentive to work to improve your position in life or your qualifications.
 
@@ -188,11 +188,11 @@ I'd like to challenge myself in different fields.
 
 In order to have a good job in the future, I shall develop my personal skills.
 
-Most of my works are digital, and I'm often typing as source code on my laptop.
+Most of my work is digital, and I'm often typing as source code on my laptop.
 
 Most young people today want skills that are marketable and have a cash value so that they will be readily employable.
 
-The ability to change from one type of job to another will be important because today no job can be guaranteed to be a job for life.
+The ability to change from one type of job to another will be important because today, no job can be guaranteed to be a job for life.
 
 The skills children ought to learn at home are social skills, like the importance of reliability and punctuality.
 
@@ -206,7 +206,7 @@ Every dog can be successful.
 
 Every man must have had a lot of failures before he got success.
 
-For me winning is everything.
+For me, winning is everything.
 
 I think a person should be optimistic and physically fit to become successful.
 
@@ -220,7 +220,7 @@ Money is not equal to success.
 
 Achieving success requires perseverance.
 
-To be successful you have to keep one step ahead of other people.
+To be successful, you have to keep one step ahead of other people.
 
 To have a harmonious family is another form of success.
 
@@ -270,7 +270,7 @@ From 7 pm onward, I mostly stay in my room, enjoying video games.
 
 From Monday to Friday, I have to get up early to prepare for work.
 
-I feel that mornings of the weekends are my favorite.
+I feel that mornings on the weekends are my favorite.
 
 I work until 7, so after I get home from work, I play computer games.
 
